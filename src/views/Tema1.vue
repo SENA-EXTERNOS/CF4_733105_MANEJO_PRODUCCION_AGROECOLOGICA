@@ -51,11 +51,33 @@
             figure
               img(src='@/assets/curso/temas/t1/cuenca2.svg', alt='Texto que describa la imagen')
 
-          div(x="20%" y="20%" tooltip="tooltip de max 35 caracteres" numero="1")
-            h5 titulo
-            p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
-            p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
-            p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+          div(x="64%" y="35%" tooltip="Divisoria de aguas" numero="1")
+            h5 Divisoria de aguas
+            p O también denominada parteaguas, por lo general está ubicada en la parte más alta de las montañas donde está el límite natural y resulta ser una línea imaginaria que limita las vertientes hidrográficas, y la separa de otras cuencas.
+          div(x="82%" y="49%" tooltip="Rio principal" numero="2")
+            h5 Rio principal
+            p Se define como el curso con mayor caudal y longitud, el cual cuenta con una parte alta o superior, una parte media y una parte baja o inferior.
+          div(x="80%" y="62%" tooltip="Cauce" numero="3")
+            h5 Cauce
+            p Canal natural por el cual corre una corriente de agua.
+          div(x="74%" y="25%" tooltip="Vertientes" numero="4")
+            h5 Vertientes
+            p Son áreas con topografía inclinada. Tienen la función de recibir el agua, y se ubican a lado y lado del cauce principal.
+          div(x="73%" y="55%" tooltip="Afluente" numero="5")
+            h5 Afluente
+            p Son ríos secundarios que vierten sus aguas al rio principal.
+          div(x="86%" y="65%" tooltip="Efluente" numero="6")
+            h5 Efluente
+            p O también denominado emisarios, son derivaciones del rio principal.
+          div(x="75%" y="78%" tooltip="Zona de recarga" numero="7")
+            h5 Zona de recarga
+            p O también denomina cabecera o zona de captación o cuenca alta, es el lugar donde se encuentran los nacimientos de las corrientes de agua, corresponde a ecosistemas de páramo.
+          div(x="43%" y="78%" tooltip="Zona de almacenamiento" numero="8")
+            h5 Zona de almacenamiento
+            p O también denominada cuenca media, allí fluyen y se almacenan la mayor cantidad de aguas provenientes de la cuenca alta.
+          div(x="14%" y="67%" tooltip="Zona de descarga" numero="9")
+            h5 Zona de descarga
+            p O también denominada cuenca baja, en donde se descargan las aguas a una corriente con mayor caudal (rio mayor, mar o lago). Es el curso con mayor caudal de agua y longitud.
     .titulo
           h2 1.1  Uso eficiente y ahorro
 </template>

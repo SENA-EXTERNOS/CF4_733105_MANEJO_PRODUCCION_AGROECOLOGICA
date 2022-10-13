@@ -114,10 +114,178 @@
             img(src='@/assets/curso/temas/t1/montaña.svg', alt="")
     h3 Tipos
     p.mb-4 El recurso hídrico lo podemos encontrar de forma superficial, subsuperficial y subterránea, de acuerdo con lo cual se pueden desarrollar diferentes tipos de procesos de captación. Tales como:  
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+      .row(titulo="Desvío").py-5.justify-content-center.align-items-center
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/t1/acor1.svg', alt='Texto que describa la imagen')
+        .col-md-5.mb-4.mb-md-0
+          p Por lo general este tipo de obra es usada para regar cultivos que se encuentren cerca al rio y consiste en realizar una abertura en al cauce natural y dirigiendo el agua por medio de un sistema de conducción, que la mayoría de veces suele ser un canal.
+      .row(titulo="Solera").py-5.justify-content-center.align-items-center
+        .col-md-5.mb-4.mb-md-0
+          p El éxito de esta toma radica en lograr la captación de la parte inferior de un escurrimiento  donde las condiciones naturales de flujo se alteran mediante una cámara transversal de captación.
+          p.mb-4 Esta obra se emplaza a manera de travesaño de fondo, sobre la cámara de captación se emplaza una rejilla, con el fin de que habilite el ingreso de caudal de captación y limite el ingreso de sedimentos.
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/t1/acor2.svg', alt='Texto que describa la imagen')
+      .row(titulo="Caudal de una fuente y dotación").py-5.justify-content-center.align-items-center
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/t1/acor3.svg', alt='Texto que describa la imagen')
+        .col-md-5.mb-4.mb-md-0
+          p Al hablar de caudal nos referimos a la cantidad de agua que suministra una fuente hídrica durante una unidad de tiempo y la determinamos a través de aforos, es una técnica que consiste en medir la cantidad de agua que circula en un tiempo determinado y su unidad de medida es litros por segundos (l/seg.).
+          p.mb-4 La dotación es simplemente la cantidad de agua que una persona tiene derecho para realizar sus actividades diarias. La capacidad de una fuente hídrica  para suministrar agua a una comunidad la podemos estimar de  la siguiente  forma, calculando la dotación y multiplicando por el numero de personas que residen hay.
+          ul.lista-ul--color
+            li 
+              i.fas.fa-snowflake
+              | Fuentes de agua.
+          p.mb-4 Es principalmente el sitio que abastece el sistema que ejecutara el riego del cultivo, de esto depende el cálculo del área máxima que podemos regar. Cuando el agua proviene de partes altas debemos calcular el caudal por medio de aforo, mientras que si lo hacemos directamente del rio con motobomba debemos tener en cuenta las especificaciones del equipo que vamos a usar.     
+      .row(titulo="Cosecha de agua").py-5.justify-content-center.align-items-center
+        .col-md-5.mb-4.mb-md-0
+          p En zonas donde no existan fuentes de agua, es imprescindible tener acceso al recurso para lo cual se busca a construir pequeñas lagunas para captar aguas lluvias, y utilizarla en temporada de menos lluvias. Dicha estructura debe ser construida en un punto más alto a donde se encuentran las parcelas a regar, en la zona de recarga debe llevar un vaso natural y debe tener un talud. Los suelos óptimos para realizar construcción son los arcillosos sino usar geomenbrana, plástico o cemento.
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/t1/acor4.svg', alt='Texto que describa la imagen')
+      .row(titulo="Aforo").py-5.justify-content-center.align-items-center
+        .col-md-10.mb-4.mb-md-0
+          p.mb-4 El aforo es la actividad con la cual medimos el volumen del agua que tiene una fuente el método para medirlo es el siguiente.
+          ul.lista-ul--color
+            li 
+              i.fas.fa-snowflake
+              | Método volumétrico.
+          p.mb-2 Es una práctica fácil que se basa en medir el tiempo que tarda en llenarse un recipiente con volumen conocido. Al dividir la capacidad del balde (litros) por el tiempo de llenado (segundo), obteniéndose el caudal en L/s.
+          .row.py-5.justify-content-center.align-items-center
+            .col-6.mb-4 
+              figure(style="text-align:center;")
+                img(src='@/assets/curso/temas/t1/acor5.svg', alt='Texto que describa la imagen')
+          p.mb-2 Una vez calculado el caudal de la fuente abastecedora, procedemos a tomar la decisión sobre cual diseño de captación realizar, cuanta área podemos regar, cuantas horas de riego y el número de turnos de riego para la parcela. Por ello la importancia de saber la capacidad de la fuente abastecedora.
 
+    separador
+    .titulo-segundo.color-secundario
+      h2 1.2. Propiedades del suelo y agua
+    p El suelo es un recurso natural de vital importancia ya que es no renovable, su composición mayormente es por sustancias solidadas, dentro de las encontramos la materia orgánica, organismos y minerales además de agua y aire, la cantidad de estos componentes son los que conceden las propiedades físicas, químicas y biológicas
+    .bloque-texto-f.pt-4.px-5.mb-5
+      .row.py-5.justify-content-center.align-items-center
+        .col-lg-7
+          p.mb-4 Que el suelo sea productivo no solo depende de la disponibilidad de nutrientes, sino que también debe reunir ciertas características físicas, pues el crecimiento de las partes aéreas depende en gran medida del desarrollo de la raíz además del balance de humedad, y aireación del suelo.
+          p.mb-4 Por lo anterior concluimos que las propiedades físicas del suelo son el resultado de la interacción del (suelo, agua y aire) y la cantidad en que se encuentran cada una de ellas.  la condición física del suelo determina la capacidad de sostenimiento, habilidad para penetrar las raíces, circulación de aire, almacenamiento de agua, drenaje, retención de nutrientes (macro y micro nutrientes).
+        .col-lg-4.d-none.d-lg-block
+          figure(style="margin-top:-36px")
+            img(src='@/assets/curso/temas/t1/suelo.svg', alt="")
+    h3 Textura y estructura
+    p.mb-4 Todos los suelos están compuestos por fracciones y partículas minerales de diferentes tamaños. Las más gruesas se denominan arenas, las medianas son los limos y las más pequeñas son las arcillas. (Ciancaglini, 2010).
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+      .row(titulo="Clasificación de las partículas del suelo por su tamaño").py-5.justify-content-center.align-items-center
+        .col-md-5
+          .row.py-5.justify-content-center.align-items-center
+              figure
+                img(src='@/assets/curso/temas/t1/tabla1.svg', alt='Texto que describa la imagen')
+          p Existen diferentes métodos para determinar la textura del suelo, entre las que encontramos:
+          ul.lista-ul--color
+              li 
+                i.fas.fa-snowflake
+                | Triangulo textural, el cual clasifica la textura del suelo en doce clases dependiendo su porcentaje de arena, limo y arcilla.  
+          p.mb-4 El cual clasifica la textura del suelo en doce clases dependiendo su porcentaje de arena, limo y arcilla.
+        .col-1
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/t1/acor6.svg', alt='Texto que describa la imagen')
+      .row(titulo="Determinación de la textura de forma manual").py-5.justify-content-center.align-items-center
+        .col-md-5
+          p Para determinar la textura de forma manual, hay que hacer una modificación al triángulo textural, el cual queda constituido por suelos con textura arcillosa, franco-arcillosa y franca.
+          p.mb-4 Para realizar el proceso se debe tomar una porción de suelo y formar una pelota, humedeciéndola hasta llegar al punto pegajoso, el cual se logra cuando la pelota de suelo no esta tan húmeda y se quiebra pegada en la mano, pero tampoco tan seca que no se sienta pegajosa. Cuando el suelo está en su punto, se debe presionar entre el dedo pulgar y el índice y se forme una plasta, lo más larga posible.
+          p.mb-4 Al igual que el pH, es recomendable medirla “in situ”, para mantener el valor reportado durante su transporte y posterior análisis.
+        .col-1
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/t1/acor7.svg', alt='Texto que describa la imagen') 
+      .row(titulo="Estructura").py-5.justify-content-center.align-items-center
+        .col-md-5
+          p La estructura simplemente es la manera que las partículas se agrupan entre sí para formar agregados del suelo.
+          
+        .col-1
+        .col-md-5
+          figure
+            img(src='@/assets/curso/temas/t1/acor8.jpg', alt='Texto que describa la imagen')
+    h3 Agua en el suelo y estados de humedad
+    p.mb-4 Para el suelo es importante la humedad, en el encontramos diferentes tipos de agua, las cuales el papel es fundamental para el desarrollo de la planta, dentro de las que encontramos.
+    .row.justify-content-center
+        .col-sm-10.col-xl-4.col-md-6.my-3
+          .tarjeta.tarjeta-slide.abajo(@mouseover="indicadorTarjetaSlide = false")
+            .tarjeta-slide__contenedor
+              .tarjeta-slide__img.text-center
+                figure
+                    img(src='@/assets/curso/temas/t1/fondotarjeta.svg', alt="")
+              .tarjeta-slide__contenido.p-4.p-xl-5
+                h3 Agua gravitacional
+                p Es la fracción de agua que encontramos en los macro poros. Esta parte de agua en el suelo es la que se mueve con ayuda de la fuerza de gravedad, por lo cual tiende a desplazarse hacia abajo. Dicha porción de agua favorecer el crecimiento de las plantas cuando se encuentra en el estrato radicular.<br><br><br><br><br>
+        .col-sm-10.col-xl-4.col-md-6.my-3
+          .tarjeta.tarjeta-slide.abajo(@mouseover="indicadorTarjetaSlide = false")
+            .tarjeta-slide__contenedor
+              .tarjeta-slide__img.text-center
+                figure
+                    img(src='@/assets/curso/temas/t1/fondotarjeta.svg', alt="")
+              .tarjeta-slide__contenido.p-4.p-xl-5
+                h3 Agua capilar
+                p Es la porción de agua que encontramos en los microporos y que se conserva en el suelo por ayuda de las fuerzas procedentes de la tensión superficial (adhesión y cohesión).
+                p Cuando se habla de fuerzas de adhesión, se hace referencia a la fuerza que permite la unión entre una partícula y una superficie, mientras que la fuerza de cohesión es la que permite la unión entre partículas iguales.
+        .col-xl-4.col-md-6.my-3
+          .tarjeta.tarjeta-slide.abajo(@mouseover="indicadorTarjetaSlide = false")
+            .tarjeta-slide__contenedor
+              .tarjeta-slide__img.text-center
+                figure
+                    img(src='@/assets/curso/temas/t1/fondotarjeta.svg', alt="")
+              .tarjeta-slide__contenido.p-4.p-xl-5
+                h3 Agua higroscópica
+                p Este tipo de agua no está disponible para las plantas, debido a su profundidad y es difícil que la raíz rompa las partículas del suelo y las paredes del poro.<br><br><br><br><br><br><br><br><br>
+    separador
+    .titulo-segundo.color-secundario
+      h2 1.3. Relación agua-suelo-planta y clima
+    p.mb-4 La porción de agua que se absorbe por la planta solo es una fracción la que suministra el hidrogeno que necesita la planta, y la otra es usada en el proceso de traspiración. Las estomas de la planta son los encargados de realizar este intercambio gaseoso, los cuales están abiertos a la presencia de agua y se cierran cuando hay escasez como forma de defensa, etapa en la cual se genera el estrés hídrico y se marchita la planta reduciendo la productividad y la muerte.
+    .row.justify-content-center  
+      .col-10
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/t1/plantas.svg', alt='Texto que describa la imagen')
 
+          .tarjeta.color.p-3(x="72%" y="30%" numero="1")
+            .h5.mb-2 Precipitación 
+            p Es el proceso por el cual el líquido que cae de la lluvia y entra a las plantas en forma de rocío en las mañanas o gotas de agua proveniente de las nubes.
+          .tarjeta.color.p-3(x="64%" y="57%" numero="2")
+            .h5.mb-2 Transpiración  
+            p Al hablar de traspiración, se hace referencia a la vaporización del agua líquida contenida en el tejido vegetal y a su vez la remoción de este vapor a la atmosfera. En los cultivos este vapor de agua se pierde a través  de los estomas, pues la planta toma el agua y los nutrientes a través de las raíces, y la vaporización ocurre en las hojas, en donde los estomas regulan el intercambio gaseoso, por lo cual la mayoría del agua que ingresa a la planta es transportada y otra pequeña parte utilizada por la planta.
+          .tarjeta.color.p-3(x="38%" y="66%" numero="3")
+            .h5.mb-2 Evaporación 
+            p Es el proceso por el cual un líquido se convierte en vapor de agua para posteriormente ser removido a la superficie. El proceso sucede en las aguas superficiales con ayuda de la energía solar quienes ayuda al cambiar de estado líquidos a estado gaseoso las moléculas de agua. En dicho proceso interviene la radiación solar, la temperatura del aire, la humedad relativa u la velocidad del viento.
+          .tarjeta.color.p-3(x="20%" y="71%" numero="4")
+            .h5.mb-2 Evapotranspiración 
+            p La evapotranspiración es la perdida de humedad de una superficie, generada por evaporación directa, junto con la perdida de agua por traspiración. Los procesos de evaporación y transpiración ocurren de manera sincronizada, de esta manera  la evaporación del suelo al momento del establecimiento de cultivo depende de la radicación solar sobre la superficie, la cual disminuye a medida que el cultivo va desarrollando follaje, el cual sombrea la superficie del suelo.
+    h3 Influencia del clima
+    p La influencia del clima está dada por variables como:
 
-
+    .row.mb-5
+      .col-xl-4.col-md-6.my-3
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/t1/temperatura.svg' alt='AvatarTop')
+          .tarjeta.color
+            .p-4
+              h3.text-center Temperatura
+              p La temperatura influye en gran parte en el crecimiento y el metabolismo de las plantas, por lo tanto debe ser óptima para asegurar el buen desarrollo y crecimiento de los cultivos.
+      .col-xl-4.col-md-6.my-3
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/t1/humedad.svg' alt='AvatarTop')
+          .tarjeta.color
+            .p-4
+              h3.text-center Humedad relativa
+              p Cuando se habla de humedad relativa, nos referimos  la cantidad de vapor de agua presente en el aire. En el cultivo cuando la humedad relativa es alta, la planta pierde agua a un ritmo menor a diferencia de cuando esta baja.
+      .col-xl-4.col-md-6.my-3
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/t1/viento.svg' alt='AvatarTop')
+          .tarjeta.color
+            .p-4
+              h3.text-center Viento
+              p A la hora de realizar el riego esta variable toma un papel importante, los fuertes vientos hacen que los suelos se sequen mas rápido y por lo tanto el cultivo pierde más agua.
 
 </template>
 

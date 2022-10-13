@@ -1946,7 +1946,7 @@ div
 
   h3 Tarjetas avatar B
   .row.mb-5
-    .col-md-6.col-lg.mb-5.mb-lg-0
+    .col-xl-6.col-md-6.my-3
       .tarjeta-avatar
         img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
         //- .tarjeta debe ir acompañado de una de una de estas clases => 

@@ -78,8 +78,47 @@
           div(x="14%" y="67%" tooltip="Zona de descarga" numero="9")
             h5 Zona de descarga
             p O también denominada cuenca baja, en donde se descargan las aguas a una corriente con mayor caudal (rio mayor, mar o lago). Es el curso con mayor caudal de agua y longitud.
-    .titulo
-          h2 1.1  Uso eficiente y ahorro
+    separador
+    .titulo-segundo.color-secundario
+      h2 1.1 Uso eficiente y ahorro
+    
+    p.mb-4 El cambio climático aumenta de manera desmesurada probablemente las inundaciones y sequias aumenten en el planeta, la preocupación es grande por lo que es necesario generar estrategias de uso eficiente y ahorro de agua, de igual forma se debe tener en cuenta la contaminación de las fuentes hídricas las cuales deben ser protegidas y recuperadas en el contexto global es prioridad la conservación y la adecuada gestión de este recurso.
+    .bloque-texto-f.pt-4.px-5.mb-5
+      .row.py-5.justify-content-center.align-items-center
+        .col-lg-6
+          p.mb-4 Colombia por su ubicación geográfica se ve favorecida por la cantidad de fuentes hídricas, gracias a esto el uso de este recurso es constante dada a la cantidad, la industria, agricultura, minería y generación de energía son los sectores que más demanda del recurso hídrico requieren. La realidad es que el agua se está acabando su ciclo se transformó completamente y por lo tanto debemos ser responsables y usar de forma racional este recurso.
+        .col-lg-4.d-none.d-lg-block
+          figure(style="margin-top:-36px")
+            img(src='@/assets/curso/temas/t1/imgcasa.svg', alt="")
+
+    h3 Uso eficiente y ahorro
+    .bloque-texto-a.p-4.p-md-5.mb-5 
+      .row.py-5.justify-content-center.align-items-center
+        .col-lg-4.d-none.d-lg-block
+          figure
+            img(src='@/assets/curso/temas/t1/imgpais.svg', alt="")
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p.mb-4 El cambio climático aumenta de manera desmesurada la probabilidad de las inundaciones y sequias, la preocupación es grande por lo que es necesario generar estrategias de uso eficiente y ahorro de agua.  
+            p.mb-4 Colombia por su ubicación geográfica se ve favorecida por la cantidad de fuentes hídricas, gracias a esto el uso de este recurso es constante dada a la cantidad, la industria, agricultura, minería y generación de energía son los sectores que más demanda del agua requieren. La realidad es que este líquido vital se está acabando; su ciclo se transformó completamente y por lo tanto debemos ser responsables y usar de forma racional este recurso. 
+    
+    h3 Captación de agua
+    p.mb-4 Las aguas superficiales son tomadas desde los ríos embalses y lagos. El mecanismo que se usa generalmente es el bombeo y generalmente se usa cuando la fuente está por debajo del nivel donde va a ser usada; también se emplea la estrategia de la gravedad cuando la fuente está por encima del usuario, con el fin de garantizar el suministro del agua. 
+    .row.py-5.justify-content-center.align-items-center
+      .col-lg-8
+        .bloque-texto-e.p-4
+            p.mb-4 En este sentido, se define la captación de agua como un proceso en el cual se recolecta y almacena el recurso hídrico de las distintas fuentes para darle uso. En Colombia rigen varias normas y permisos para el desarrollo de obras que requieren de este proceso las cuales deben cumplir con requisitos para realizar un manejo adecuado de la fuente de abastecimiento.  
+            p.mb-4 Uno de los principales requisitos mencionados es el diseño, dentro del cual se debe tener en cuenta el caudal y que la construcción este dentro de los parámetros, es decir que el caudal extraído debe ser el adecuado según lo que requiere la fuente de abastecimiento, también es necesario evaluar los efectos destructivos, para lo que es necesario calcular el volumen y la frecuencia de las crecidas. Debe contar con medios de limpieza y control de caudales y tener controladores de materiales extraños.
+      .col-lg-4.d-none.d-lg-block
+          figure
+            img(src='@/assets/curso/temas/t1/montaña.svg', alt="")
+    h3 Tipos
+    p.mb-4 El recurso hídrico lo podemos encontrar de forma superficial, subsuperficial y subterránea, de acuerdo con lo cual se pueden desarrollar diferentes tipos de procesos de captación. Tales como:  
+
+
+
+
+
 </template>
 
 <script>

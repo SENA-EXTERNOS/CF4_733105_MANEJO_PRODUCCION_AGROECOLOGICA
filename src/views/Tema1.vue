@@ -249,16 +249,16 @@
             figure
               img(src='@/assets/curso/temas/t1/plantas.svg', alt='Texto que describa la imagen')
 
-          .tarjeta.color.p-3(x="72%" y="30%" numero="1")
+          .tarjeta.color.p-3(x="72%" y="34%" numero="1")
             .h5.mb-2 Precipitación 
             p Es el proceso por el cual el líquido que cae de la lluvia y entra a las plantas en forma de rocío en las mañanas o gotas de agua proveniente de las nubes.
-          .tarjeta.color.p-3(x="64%" y="57%" numero="2")
+          .tarjeta.color.p-3(x="64%" y="62%" numero="2")
             .h5.mb-2 Transpiración  
             p Al hablar de traspiración, se hace referencia a la vaporización del agua líquida contenida en el tejido vegetal y a su vez la remoción de este vapor a la atmosfera. En los cultivos este vapor de agua se pierde a través  de los estomas, pues la planta toma el agua y los nutrientes a través de las raíces, y la vaporización ocurre en las hojas, en donde los estomas regulan el intercambio gaseoso, por lo cual la mayoría del agua que ingresa a la planta es transportada y otra pequeña parte utilizada por la planta.
-          .tarjeta.color.p-3(x="38%" y="66%" numero="3")
+          .tarjeta.color.p-3(x="38%" y="70%" numero="3")
             .h5.mb-2 Evaporación 
             p Es el proceso por el cual un líquido se convierte en vapor de agua para posteriormente ser removido a la superficie. El proceso sucede en las aguas superficiales con ayuda de la energía solar quienes ayuda al cambiar de estado líquidos a estado gaseoso las moléculas de agua. En dicho proceso interviene la radiación solar, la temperatura del aire, la humedad relativa u la velocidad del viento.
-          .tarjeta.color.p-3(x="20%" y="71%" numero="4")
+          .tarjeta.color.p-3(x="20%" y="73%" numero="4")
             .h5.mb-2 Evapotranspiración 
             p La evapotranspiración es la perdida de humedad de una superficie, generada por evaporación directa, junto con la perdida de agua por traspiración. Los procesos de evaporación y transpiración ocurren de manera sincronizada, de esta manera  la evaporación del suelo al momento del establecimiento de cultivo depende de la radicación solar sobre la superficie, la cual disminuye a medida que el cultivo va desarrollando follaje, el cual sombrea la superficie del suelo.
     h3 Influencia del clima

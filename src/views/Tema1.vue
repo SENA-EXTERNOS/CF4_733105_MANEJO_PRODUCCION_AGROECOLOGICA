@@ -7,7 +7,7 @@
         span 1
       h1 Potencial hídrico
     p El éxito de la producción agrícola está reflejado en el desarrollo de productos de excelente calidad para la comercialización. Sin embargo, hay que realizar un seguimiento detallado de los recursos que intervienen en el proceso, esta vez hablaremos del agua como factor importante para garantizar alcanzar los rendimientos y resultados esperados. 
-    p.mb-4 Por cierto, sabemos que el agua está involucrada en distintos sectores, es usada en diversas tareas, debemos entender que es un recurso limitado y por lo tanto debemos darle un uso eficiente. La agricultura es el sector donde más consumo hay, por lo que se ha optado por introducir la tecnología para generar alternativas de riego, uso controlado del drenaje, supervisión de las etapas de la planta y dar uso adecuado del agua en el proceso, tratado de afectar minimamente su ciclo.
+    p.mb-4 Por cierto, sabemos que el agua está involucrada en distintos sectores, es usada en diversas tareas, debemos entender que es un recurso limitado y por lo tanto debemos darle un uso eficiente. La agricultura es el sector donde más consumo hay, por lo que se ha optado por introducir la tecnología para generar alternativas de riego, uso controlado del drenaje, supervisión de las etapas de la planta y dar uso adecuado del agua en el proceso, tratado de afectar mínimamente su ciclo.
 
 
     .row.py-5.justify-content-center.align-items-center
@@ -24,7 +24,7 @@
 
     .titulo
           h2 Cuenca hidrográfica
-    p.mb-4 Es un área establecida naturalmente que cuenta con una depresión de terreno y está rodeada por partes más altas por donde circula el líquido proveniente de la descongelación del hielo para desembocar en el mar. Está estrechamente involucrada en el desarrollo de las actividades humanas y son las encargadas de regular el flujo de agua evitando riesgos naturales como inundaciones, regulan la calidad del agua y visualmente son una belleza paisajística. 
+    p.mb-4 Estas cuencas hidrográficas a nivel ecosistema, son importantes y está estrechamente involucradas en el desarrollo de las actividades humanas, ya queson las encargadas de regular el flujo de agua evitando riesgos naturales como inundaciones, además regulan la calidad del agua y visualmente aportan belleza paisajística.
 
     ImagenInfografica.color-acento-botones
         template(v-slot:imagen)
@@ -65,10 +65,10 @@
             p Son áreas con topografía inclinada. Tienen la función de recibir el agua, y se ubican a lado y lado del cauce principal.
           div(x="73%" y="55%" tooltip="Afluente" numero="5")
             h5 Afluente
-            p Son ríos secundarios que vierten sus aguas al rio principal.
+            p Son ríos secundarios que vierten sus aguas al río principal.
           div(x="86%" y="65%" tooltip="Efluente" numero="6")
             h5 Efluente
-            p O también denominado emisarios, son derivaciones del rio principal.
+            p O también denominado emisarios, son derivaciones del río principal.
           div(x="75%" y="78%" tooltip="Zona de recarga" numero="7")
             h5 Zona de recarga
             p O también denomina cabecera o zona de captación o cuenca alta, es el lugar donde se encuentran los nacimientos de las corrientes de agua, corresponde a ecosistemas de páramo.
@@ -77,7 +77,7 @@
             p O también denominada cuenca media, allí fluyen y se almacenan la mayor cantidad de aguas provenientes de la cuenca alta.
           div(x="14%" y="67%" tooltip="Zona de descarga" numero="9")
             h5 Zona de descarga
-            p O también denominada cuenca baja, en donde se descargan las aguas a una corriente con mayor caudal (rio mayor, mar o lago). Es el curso con mayor caudal de agua y longitud.
+            p O también denominada cuenca baja, en donde se descargan las aguas a una corriente con mayor caudal (río mayor, mar o lago). Es el curso con mayor caudal de agua y longitud.
     separador
     .titulo-segundo.color-secundario
       h2 1.1 Uso eficiente y ahorro
@@ -89,7 +89,7 @@
           p.mb-4 Colombia por su ubicación geográfica se ve favorecida por la cantidad de fuentes hídricas, gracias a esto el uso de este recurso es constante dada a la cantidad, la industria, agricultura, minería y generación de energía son los sectores que más demanda del recurso hídrico requieren. La realidad es que el agua se está acabando su ciclo se transformó completamente y por lo tanto debemos ser responsables y usar de forma racional este recurso.
         .col-lg-4.d-none.d-lg-block
           figure(style="margin-top:-36px")
-            img(src='@/assets/curso/temas/t1/imgcasa.svg', alt="")
+            img(src='@/assets/curso/temas/t1/imgcasa.png', alt="")
 
     h3 Uso eficiente y ahorro
     .bloque-texto-a.p-4.p-md-5.mb-5 
@@ -134,12 +134,12 @@
             img(src='@/assets/curso/temas/t1/acor3.svg', alt='Texto que describa la imagen')
         .col-md-5.mb-4.mb-md-0
           p Al hablar de caudal nos referimos a la cantidad de agua que suministra una fuente hídrica durante una unidad de tiempo y la determinamos a través de aforos, es una técnica que consiste en medir la cantidad de agua que circula en un tiempo determinado y su unidad de medida es litros por segundos (l/seg.).
-          p.mb-4 La dotación es simplemente la cantidad de agua que una persona tiene derecho para realizar sus actividades diarias. La capacidad de una fuente hídrica  para suministrar agua a una comunidad la podemos estimar de  la siguiente  forma, calculando la dotación y multiplicando por el numero de personas que residen hay.
+          p.mb-4 La dotación es simplemente la cantidad de agua que una persona tiene derecho para realizar sus actividades diarias. La capacidad de una fuente hídrica  para suministrar agua a una comunidad la podemos estimar de  la siguiente  forma, calculando la dotación y multiplicando por el número de personas que residen ahí.
           ul.lista-ul--color
             li 
               i.fas.fa-snowflake
               | Fuentes de agua.
-          p.mb-4 Es principalmente el sitio que abastece el sistema que ejecutara el riego del cultivo, de esto depende el cálculo del área máxima que podemos regar. Cuando el agua proviene de partes altas debemos calcular el caudal por medio de aforo, mientras que si lo hacemos directamente del rio con motobomba debemos tener en cuenta las especificaciones del equipo que vamos a usar.     
+          p.mb-4 Es principalmente el sitio que abastece el sistema que ejecutará el riego del cultivo, de esto depende el cálculo del área máxima que podemos regar. Cuando el agua proviene de partes altas debemos calcular el caudal por medio de aforo, mientras que si lo hacemos directamente del rio con motobomba debemos tener en cuenta las especificaciones del equipo que vamos a usar.     
       .row(titulo="Cosecha de agua").py-5.justify-content-center.align-items-center
         .col-md-5.mb-4.mb-md-0
           p En zonas donde no existan fuentes de agua, es imprescindible tener acceso al recurso para lo cual se busca a construir pequeñas lagunas para captar aguas lluvias, y utilizarla en temporada de menos lluvias. Dicha estructura debe ser construida en un punto más alto a donde se encuentran las parcelas a regar, en la zona de recarga debe llevar un vaso natural y debe tener un talud. Los suelos óptimos para realizar construcción son los arcillosos sino usar geomenbrana, plástico o cemento.
@@ -184,7 +184,7 @@
           ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
-                | Triangulo textural, el cual clasifica la textura del suelo en doce clases dependiendo su porcentaje de arena, limo y arcilla.  
+                | Triángulo textural, el cual clasifica la textura del suelo en doce clases dependiendo su porcentaje de arena, limo y arcilla.  
           p.mb-4 El cual clasifica la textura del suelo en doce clases dependiendo su porcentaje de arena, limo y arcilla.
         .col-1
         .col-md-5
@@ -241,7 +241,7 @@
     separador
     .titulo-segundo.color-secundario
       h2 1.3. Relación agua-suelo-planta y clima
-    p.mb-4 La porción de agua que se absorbe por la planta solo es una fracción la que suministra el hidrogeno que necesita la planta, y la otra es usada en el proceso de traspiración. Las estomas de la planta son los encargados de realizar este intercambio gaseoso, los cuales están abiertos a la presencia de agua y se cierran cuando hay escasez como forma de defensa, etapa en la cual se genera el estrés hídrico y se marchita la planta reduciendo la productividad y la muerte.
+    p.mb-4 La porción de agua que se absorbe por la planta solo es una fracción la que suministra el hidrógeno que necesita la planta, y la otra es usada en el proceso de transpiración. Las estomas de la planta son los encargados de realizar este intercambio gaseoso, los cuales están abiertos a la presencia de agua y se cierran cuando hay escasez como forma de defensa, etapa en la cual se genera el estrés hídrico y se marchita la planta reduciendo la productividad y la muerte.
     .row.justify-content-center  
       .col-10
         ImagenInfografica.color-acento-botones.mb-5
@@ -254,13 +254,13 @@
             p Es el proceso por el cual el líquido que cae de la lluvia y entra a las plantas en forma de rocío en las mañanas o gotas de agua proveniente de las nubes.
           .tarjeta.color.p-3(x="64%" y="62%" numero="2")
             .h5.mb-2 Transpiración  
-            p Al hablar de traspiración, se hace referencia a la vaporización del agua líquida contenida en el tejido vegetal y a su vez la remoción de este vapor a la atmosfera. En los cultivos este vapor de agua se pierde a través  de los estomas, pues la planta toma el agua y los nutrientes a través de las raíces, y la vaporización ocurre en las hojas, en donde los estomas regulan el intercambio gaseoso, por lo cual la mayoría del agua que ingresa a la planta es transportada y otra pequeña parte utilizada por la planta.
+            p Al hablar de transpiración, se hace referencia a la vaporización del agua líquida contenida en el tejido vegetal y a su vez la remoción de este vapor a la atmósfera. En los cultivos este vapor de agua se pierde a través  de los estomas, pues la planta toma el agua y los nutrientes a través de las raíces, y la vaporización ocurre en las hojas, en donde los estomas regulan el intercambio gaseoso, por lo cual la mayoría del agua que ingresa a la planta es transportada y otra pequeña parte utilizada por la planta.
           .tarjeta.color.p-3(x="38%" y="70%" numero="3")
             .h5.mb-2 Evaporación 
             p Es el proceso por el cual un líquido se convierte en vapor de agua para posteriormente ser removido a la superficie. El proceso sucede en las aguas superficiales con ayuda de la energía solar quienes ayuda al cambiar de estado líquidos a estado gaseoso las moléculas de agua. En dicho proceso interviene la radiación solar, la temperatura del aire, la humedad relativa u la velocidad del viento.
           .tarjeta.color.p-3(x="20%" y="73%" numero="4")
             .h5.mb-2 Evapotranspiración 
-            p La evapotranspiración es la perdida de humedad de una superficie, generada por evaporación directa, junto con la perdida de agua por traspiración. Los procesos de evaporación y transpiración ocurren de manera sincronizada, de esta manera  la evaporación del suelo al momento del establecimiento de cultivo depende de la radicación solar sobre la superficie, la cual disminuye a medida que el cultivo va desarrollando follaje, el cual sombrea la superficie del suelo.
+            p La evapotranspiración es la perdida de humedad de una superficie, generada por evaporación directa, junto con la perdida de agua por transpiración. Los procesos de evaporación y transpiración ocurren de manera sincronizada, de esta manera  la evaporación del suelo al momento del establecimiento de cultivo depende de la radicación solar sobre la superficie, la cual disminuye a medida que el cultivo va desarrollando follaje, el cual sombrea la superficie del suelo.
     h3 Influencia del clima
     p La influencia del clima está dada por variables como:
 
@@ -270,21 +270,21 @@
           img(src='@/assets/curso/temas/t1/temperatura.svg' alt='AvatarTop')
           .tarjeta.color
             .p-4
-              h3.text-center Temperatura
+              h3.text-center <br> Temperatura
               p La temperatura influye en gran parte en el crecimiento y el metabolismo de las plantas, por lo tanto debe ser óptima para asegurar el buen desarrollo y crecimiento de los cultivos.
       .col-xl-4.col-md-6.my-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/humedad.svg' alt='AvatarTop')
           .tarjeta.color
             .p-4
-              h3.text-center Humedad relativa
+              h3.text-center <br> Humedad relativa
               p Cuando se habla de humedad relativa, nos referimos  la cantidad de vapor de agua presente en el aire. En el cultivo cuando la humedad relativa es alta, la planta pierde agua a un ritmo menor a diferencia de cuando esta baja.
       .col-xl-4.col-md-6.my-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/viento.svg' alt='AvatarTop')
           .tarjeta.color
             .p-4
-              h3.text-center Viento
+              h3.text-center <br> Viento
               p A la hora de realizar el riego esta variable toma un papel importante, los fuertes vientos hacen que los suelos se sequen mas rápido y por lo tanto el cultivo pierde más agua.
 
 </template>

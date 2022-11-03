@@ -10,11 +10,11 @@
     p Los emisores varían según tipo y modelo, desde los tubos perforados, o micro tubos a grandes diseños, por lo cual los sistemas de riego se basan en el tipo de emisor utilizado.
     .row.justify-content-center.align-items-center
       .col-lg-10
-      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-        .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img1.svg')})`}")
-        .bloque-texto-g__texto.p-4
-          p.mb-0 Para elegir  los métodos de riego, es necesario tener en cuenta diversas variables como la distribución del agua en el suelo, características topográficas, tipo de cultivo, disponibilidad de agua, costos y tecnología.
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/t2/metodos-de-riego.png')})`}")
+          .bloque-texto-g__texto.p-4
+            p.mb-0 Para elegir  los métodos de riego, es necesario tener en cuenta diversas variables como la distribución del agua en el suelo, características topográficas, tipo de cultivo, disponibilidad de agua, costos y tecnología.
     <br>
     <br>
     .row.mb-4
@@ -52,7 +52,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               h1 Métodos por aspersión
-              p Es un sistema de riego a presión que implica la aplicación del agua en forma de lluvia más o menos intensa y uniforme sobre la parcela, con el fin de que el agua se infiltre en el mismo punto donde cae
+              p Es un sistema de riego a presión que implica la aplicación del agua en forma de lluvia más o menos intensa y uniforme sobre la parcela, con el fin de que el agua se infiltre en el mismo punto donde cae.
               p El agua es asperjada, es decir el caudal es suministrado en innumerables gotas pequeñas de agua, las cuales penetran el suelo, al tiempo que se aplica.<br><br><br><br><br><br><br>
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/t4.jpg')})`}")
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
@@ -68,7 +68,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 Método por goteo
+              h1 Componentes de un sistema de riego por superficie
               p a. Distribución del agua, obras de instalación que transportan el agua desde la captación hasta el cultivo.
               p b. Sistema de aforo, permite controlar con exactitud el caudal del agua, que debemos aplicar por sistema de riego.
               p c. Sistemas de aplicación, que involucra sifones, caños, compuertas, válvulas de alfalfa, tuberías con compuertas, mangueras.
@@ -165,7 +165,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 3
-              | pH, coeficiente que determina la acides o alcalinidad. 
+              | pH, coeficiente que determina la acidez o alcalinidad. 
     separador
     .titulo-segundo.color-secundario
       h2 2.3. Requerimientos de riego
@@ -180,18 +180,20 @@
     .titulo-segundo.color-secundario
       h2 2.4. Drenaje
     p Sabemos que el suelo está constituido básicamente por distintas fases solida liquida y gaseosa. El equilibrio de estas permite que las semillas germinen, desarrollo óptimo de las plantas y generen buenos resultados en las cosechas. El objetivo del drenaje es disminuir los excesos de agua que se acumulan tanto en la superficie como al interior del suelo, debemos generar las condiciones óptimas de aireación para asegurar el crecimiento y desarrollo de la raíz de la planta.
+    br
+    h3 Clases de drenaje
     TabsC
       .py-5.py-md-4(titulo="Drenaje superficial")
         .row.py-4.justify-content-center.align-items-center
           .col-md-5.mb-4.mb-md-0
-            p Consiste en realizar canales o zanjas de poca profundidad con el objetivo de eliminar los excesos de aguas lluvias o de riego de la superficie de la raíz. Para la construcción de este debemos tener en cuenta la intensidad y la duración de las lluvias, tipo de suelo, topografía y la cubierta vegetal
+            p Consiste en realizar canales o zanjas de poca profundidad con el objetivo de eliminar los excesos de aguas lluvias o de riego de la superficie de la raíz. Para la construcción de este debemos tener en cuenta la intensidad y la duración de las lluvias, tipo de suelo, topografía y la cubierta vegetal.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/t2/pest1.svg')
       .py-3.py-md-4(titulo="Drenaje subterráneo")
         .row.py-4.justify-content-center.align-items-center
           .col-md-5
-            p Básicamente se usa para remover las aguas estancadas en la parte subterránea. Se usan zanjas abiertas y tubos tubos perforados enterrados.
+            p Básicamente se usa para remover las aguas estancadas en la parte subterránea. Se usan zanjas abiertas y tubos perforados enterrados.
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/t2/pest2.svg')
@@ -220,16 +222,16 @@
       .py-5.py-md-4(titulo="Beneficios del drenaje")
         .row.py-4.justify-content-center.align-items-center
           .col-lg-11
-            p Básicamente se usa para remover las aguas estancadas en la parte subterránea. Se usan zanjas abiertas y tubos tubos perforados enterrados.
+            p Dentro de los muchos beneficios que genera el drenaje adecuado del suelo del cultivo se encuentra:
           .col-md-8
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
-                | En suelos saturados, la falta de oxígeno evita la creación de formas utilizables de nitrógeno y azufre, debido al desarrollo limitado de bacterias aérobicas, generando bajos rendimiento en el cultivo.
+                | En suelos saturados, la falta de oxígeno evita la creación de formas utilizables de nitrógeno y azufre, debido al desarrollo limitado de bacterias aeróbicas, generando bajos rendimiento en el cultivo.
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
-                | Incremento de la cantidad de oxigeno disponible en el perfil de suelo.    
+                | Incremento de la cantidad de oxígeno disponible en el perfil de suelo.    
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
@@ -258,7 +260,7 @@
       
         .col-lg-3 
          .bloque-texto-g.pt-4.px-5.mb-5
-            h4 Niveles del lenguaje
+            h4 Norma
         .col-lg-9  
           table
             tr

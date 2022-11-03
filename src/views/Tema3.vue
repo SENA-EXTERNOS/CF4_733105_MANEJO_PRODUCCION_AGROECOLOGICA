@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo de primer nivel
+      h1 Poblaciones asociadas al cultivo
     .bg_img_01.mb-5
       .row.justify-content-center
         .col-xl-8
@@ -15,7 +15,7 @@
               p.mb-2  Cuando hablamos de agricultura ecológica decimos que es un sistema de producción donde integra un manejo apropiado del suelo, aire y agua y las actividades de explotación agrícola como riego, tratamientos y labores.  
               .cajon.color.p-4.mb-1
                 p El control de organismos causantes de enfermedades y plagas es uno de los grandes retos que tienen los productores y la idea es hacer que estas hagan el menor daño económico posible utilizando métodos apropiados para causar el menor impacto al medio ambiente.  
-              p.mb-1 Todo proyecto comprende actividades para el levantamiento, gestión y análisis de los requerimientos que solicitan los clientes y otros interesados. Proporcionar respuestas efectivas a esos requerimientos es indispensable para el éxito.
+              p.mb-1 Se trata además de incluir dentro de los cultivos,  poblaciones de organismos y microorganismos que ayuden a disminuir la influencia de las enfermedades y plagas, además de algunas plantas que sirven como repelentes. 
 
                p 
         .col-xl-4.d-none.d-xl-block
@@ -52,10 +52,10 @@
             p Son grandiosos controladores naturales, atacan las plagas desde su inicio, consumen larvas e insectos dañinos.
           div(x="66%" y="98%" tooltip="La mantis religiosa")
             h5 La mantis religiosa
-            p La mantis religiosa: Feroz depredador, actuando sobre cualquier insecto por lo que debemos ser prudentes con el número de estos dentro del cultivo ya que también ataca a los organismos benéficos.
+            p Feroz depredador, actuando sobre cualquier insecto por lo que debemos ser prudentes con el número de estos dentro del cultivo ya que también ataca a los organismos benéficos.
           div(x="86%" y="98%" tooltip="Las hormigas")
             h5 Las hormigas
-            p Las hormigas: algunas especies actúan como buen control biológico, actúan sobre gusanos y saltamontes.
+            p Algunas especies actúan como buen control biológico, actúan sobre gusanos y saltamontes.
     
     .row.py-5.justify-content-center.align-items-center.mb-4
       .col-lg-8
@@ -67,50 +67,47 @@
       .col-lg-3
         figure(style="margin-top:-36px")
           img(src='@/assets/curso/temas/t3/bacteria.svg', alt="")
-    .row.mb-4
-      .col-lg-10
-        .tarjeta-avatar-b.mb-5
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/t3/hongos.svg' alt='AvatarTop')
-          .tarjeta
-            .p-4
-              h2 Hongos
-              p Son los causales de los problemas agrícolas más típicos, por lo general siempre buscan donde hospedarse para poder sobrevivir atacan las estomas y principalmente las heridas, son fáciles de identificar porque forman manchas de diversos colores formando necrosis y se reproducen por medio de las esporas y con la ayuda de las ráfagas de viento.
-              p Los síntomas de una infección fúngica son crecimiento anormal, exfoliación, podredumbre, antracnosis, ulceras, rizos en las hojas y verrugas.
-    .row.mb-4
-      .col-lg-10
-        .tarjeta-avatar-b.mb-5
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/t3/bacterias.svg' alt='AvatarTop')
-          .tarjeta
-            .p-4
-              h2 Bactérias
-              p Son incapaces de producir su propia energía y para poderse sostener necesitan de un hospedaje, al igual que los hongos aprovechan las heridas para poder introducirse, las lecciones casi siempre son causadas por insectos que buscan alimentarse de la savia de la planta y el uso de las herramientas agrícolas. Biológicamente estos microorganismos permanecen de maneras inactivas o latentes hasta que se dan las condiciones favorables para poder desarrollarse.
-              p Dentro de los síntomas encontramos marchitamiento, necrosis, y malos olores de las zonas afectadas.
-    .row.mb-4
-      .col-lg-10
-        .tarjeta-avatar-b.mb-5
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/t3/virus.svg' alt='AvatarTop')
-          .tarjeta
-            .p-4
-              h2 Virus
-              p Son los enemigos más críticos de las plantas al igual que los anteriores necesitan de un organismo hospedador afectan el crecimiento directamente produciendo enanismo, malformaciones y decoloración.
-    .row.mb-4
-      .col-lg-10
-        .tarjeta-avatar-b.mb-5
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/t3/nematodos.svg' alt='AvatarTop')
-          .tarjeta
-            .p-4
-              h2 Nematodos
-              p Son los de mayor tamaño, gusanos redondos parasitarios, viven en el suelo y afectan principalmente la raíz actúan allí impidiendo que la planta tome los nutrientes produciendo desnutrición, las hojas se secan y declive general.           
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-2
+        figure
+          img(src='@/assets/curso/temas/t3/hongos.svg' alt='AvatarTop')
+      .col-lg-8
+        .p-4
+          h2 Hongos
+          p Son los causales de los problemas agrícolas más típicos, por lo general siempre buscan donde hospedarse para poder sobrevivir atacan las estomas y principalmente las heridas, son fáciles de identificar porque forman manchas de diversos colores formando necrosis y se reproducen por medio de las esporas y con la ayuda de las ráfagas de viento.
+          p Los síntomas de una infección fúngica son crecimiento anormal, exfoliación, podredumbre, antracnosis, úlceras, rizos en las hojas y verrugas.
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-2
+        figure
+          img(src='@/assets/curso/temas/t3/bacterias.svg' alt='AvatarTop')
+      .col-lg-8
+        .p-4
+          h2 Bacterias
+          p Son incapaces de producir su propia energía y para poderse sostener necesitan de un hospedaje, al igual que los hongos aprovechan las heridas para poder introducirse, las lecciones casi siempre son causadas por insectos que buscan alimentarse de la savia de la planta y el uso de las herramientas agrícolas. Biológicamente estos microorganismos permanecen de maneras inactivas o latentes hasta que se dan las condiciones favorables para poder desarrollarse.
+          p Dentro de los síntomas encontramos marchitamiento, necrosis, y malos olores de las zonas afectadas.
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-2
+        figure
+          img(src='@/assets/curso/temas/t3/virus.svg' alt='AvatarTop')
+      .col-lg-8
+        .p-4
+          h2 Virus
+          p Son los enemigos más críticos de las plantas al igual que los anteriores necesitan de un organismo hospedador afectan el crecimiento directamente produciendo enanismo, malformaciones y decoloración.
+    br
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-2
+        figure
+          img(src='@/assets/curso/temas/t3/nematodos.svg' alt='AvatarTop')
+      .col-lg-8
+        .p-4
+          h2 Nematodos
+          p Son los de mayor tamaño, gusanos redondos parasitarios, viven en el suelo y afectan principalmente la raíz actúan allí impidiendo que la planta tome los nutrientes produciendo desnutrición, las hojas se secan y declive general.           
     separador
     .titulo-segundo.color-secundario
       h2 3.1.  Identificación y monitoreo
-    .row.py-5.align-items-center.align-items-center
+    .row.justify-content-around.align-items-center.py-5
+      h2 Monitoreo de poblaciones en el cultivo.
       .col-lg-8
-        h2 Monitoreo de poblaciones en el cultivo.
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
             p La finalidad del monitoreo es saber el estado sanitario en que se encuentra el cultivo. Como anteriormente expresamos para poder tomar decisiones acerca del control de plagas y enfermedades es saber el estado sanitario de la plantación. Conocer el número de individuos por unidad de referencia en caso de plaga y en caso de enfermedad la cantidad de plantas con síntomas severos. Cuando son plantaciones grandes se toman pequeñas porciones para hacer el estudio y se recomienda que sea inspección directa. El dato obtenido es estimado al nivel real de dicha plaga.
@@ -119,12 +116,12 @@
           img(src='@/assets/curso/temas/t3/cultivo.svg', alt="")
     .row.py-5.align-items-center.align-items-center
         .bloque-texto-b.p-4
-          h2 Porque hacer el monitoreo
+          h3 Porque hacer el monitoreo
           .bloque-texto-b__texto
             p La finalidad es detectar a tiempo los problemas para poder resolverlos y evitar que los daños sean graves sobre todos para cultivos de ciclo corto para tomar decisiones oportunas antes que sea demasiado tarde. El monitoreo mal hecho en los cultivos representa pérdidas significativas en las plantaciones. Esta técnica de igual manera nos permitirá un uso eficiente en los productos para combatir plagas teniendo en cuenta que debemos ser amigables con el ambiente al usar dichos artículos. Resulta útil también para los insectos benéficos que actúan como controladores de plagas, es necesario saber qué tipo de población asociada tenemos para realizar prácticas que favorezcan a estos aliados.
-    .bloque-texto.p-4
+        .bloque-texto.p-4.mb-4
           .col-md-8
-            h3.mb-4 Herramientas de monitoreo
+            h4.mb-4 Herramientas de monitoreo
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake

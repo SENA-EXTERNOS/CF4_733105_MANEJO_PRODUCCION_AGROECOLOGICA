@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="445.5" height="136.5" viewBox="0 0 445.5 136.5">
+  <g id="Grupo_874865" data-name="Grupo 874865" transform="translate(-285 -9857)">
+    <g id="Rectángulo_675" data-name="Rectángulo 675" transform="translate(285 9857)" fill="#148d80" stroke="#fff" stroke-width="1">
+      <rect width="445" height="42" stroke="none"/>
+      <rect x="0.5" y="0.5" width="444" height="41" fill="none"/>
+    </g>
+    <text id="Tipos_de_partículas" data-name="Tipos de partículas" transform="translate(391 9885)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-78.064" y="0">Tipos de partículas</tspan></text>
+    <text id="Rangos_de_diámetro_mm_" data-name="Rangos de diámetro (mm)" transform="translate(614 9886)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-105.46" y="0">Rangos de diámetro (mm)</tspan></text>
+    <line id="Línea_52" data-name="Línea 52" y2="94" transform="translate(497 9899)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Línea_145" data-name="Línea 145" y2="108" transform="translate(286 9885)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Línea_55" data-name="Línea 55" x1="444" transform="translate(286 9931)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Línea_85" data-name="Línea 85" x1="444" transform="translate(286 9993)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Línea_53" data-name="Línea 53" y2="94" transform="translate(730 9899)" fill="none" stroke="#fff" stroke-width="1"/>
+    <text id="Arena" transform="translate(310 9909)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-20.93" y="17">Arena</tspan></text>
+    <text id="Limo" transform="translate(310 9937)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-17.82" y="17">Limo</tspan></text>
+    <text id="Arcilla" transform="translate(310 9968)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-22.215" y="17">Arcilla</tspan></text>
+    <text id="_2.0_-_0.02" data-name="2.0 - 0.02" transform="translate(614 9924)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-32.84" y="0">2.0 - 0.02</tspan></text>
+    <line id="Línea_147" data-name="Línea 147" x1="444" transform="translate(286 9962)" fill="none" stroke="#fff" stroke-width="1"/>
+    <text id="_0.02_-_0.002" data-name="0.02 - 0.002" transform="translate(614 9952)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-41.824" y="0">0.02 - 0.002</tspan></text>
+    <text id="Menos_de_0.002" data-name="Menos de 0.002" transform="translate(614 9983)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-57.109" y="0">Menos de 0.002</tspan></text>
+  </g>
+</svg>

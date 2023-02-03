@@ -17,45 +17,52 @@
                 p El control de organismos causantes de enfermedades y plagas es uno de los grandes retos que tienen los productores y la idea es hacer que estas hagan el menor daño económico posible utilizando métodos apropiados para causar el menor impacto al medio ambiente.  
               p.mb-1 Se trata además de incluir dentro de los cultivos,  poblaciones de organismos y microorganismos que ayuden a disminuir la influencia de las enfermedades y plagas, además de algunas plantas que sirven como repelentes. 
 
-               p 
+               
         .col-xl-4.d-none.d-xl-block
           figure
             img(src='@/assets/curso/temas/t3/personaje.svg', alt="")
     h2 Principales grupos de artrópodos asociados al cultivo
-    br
+
     
-    .row.py-5.justify-content-center.align-items-center
-      .col-lg-6.mb-5 
+    .row.py-5.justify-content-center.align-items-center.mt-3
+      .col-lg-8
         .bloque-texto-b.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h3.mb-0 Los insectos conforman un componente fundamental en los ecosistemas agrícolas. Algunos se consideran plagas por los perjuicios que causan a los cultivos, y son los que mayor atención reciben. Muchos visitan flores y participan de la polinización, una importantísima contribución que a menudo no valoramos. 
+            p.mb-0 Los insectos conforman un componente fundamental en los ecosistemas agrícolas. Algunos se consideran plagas por los perjuicios que causan a los cultivos, y son los que mayor atención reciben. Muchos visitan flores y participan de la polinización, una importantísima contribución que a menudo no valoramos. 
+            br
+            p <b style="margin-left: 0%;">(Zumbado & Jimenez, 2018)</b>.
             i.fas.fa-quote-right
 
-          p (Zumbado & Jimenez, 2018).
-          br
-          p.mb-4 Los insectos benéficos son aquellos que contribuyen con el buen desarrollo y crecimiento de las plantas mejorando los resultados económicos de los productos, son auto reguladores de la naturaleza además contribuyen con el control natural de plagas. El uso del control químico de las plagas es útil y rentable, pero perjudican el medio ambiente.  Algunos de ellos son: 
+    .row.py-5.justify-content-center.align-items-center
+      p.mb-4 Los insectos benéficos son aquellos que contribuyen con el buen desarrollo y crecimiento de las plantas mejorando los resultados económicos de los productos, son auto reguladores de la naturaleza además contribuyen con el control natural de plagas. El uso del control químico de las plagas es útil y rentable, pero perjudican el medio ambiente.  Algunos de ellos son: 
+      
       .col-lg-6
-        ImagenInfograficaB.color-primario
+        ImagenInfografica.color-primario
           template(v-slot:imagen)
               .row.justify-content-center.align-items-center
-                img(src='@/assets/curso/temas/t3/atropodos.svg')
+                img(src='@/assets/curso/temas/t3/img1.svg')
 
-          div(x="4%" y="98%" tooltip="Mariquitas")
+          .tarjeta.bgr-info.p-3(x="6%" y="92.6%" numero="+")
             h5 Mariquitas
-            p Insectos que poseen colores atractivos, por naturaleza son depredadores de ácaros y pulgas que causan daños a los cultivos de esta manera se consideran controladores biológicos.
-          div(x="25%" y="98%" tooltip="Las abejas")
+            p Insectos que poseen colores atractivos, por naturaleza son depredadores de ácaros y pulgas, que causan daños a los cultivos, de esta manera se consideran controladores biológicos.
+
+          .tarjeta.bgr-info.p-3(x="24.5%" y="92.6%" numero="+")
             h5 Las abejas
-            p Catalogados lo insectos con mayor importancia se dice que sin ellos desaparecería todo ser vivo de la tierra, son los encargados de polinizar haciendo posible la producción de semillas y flores.
-          div(x="45%" y="98%" tooltip="Las avispas")
+            p Catalogadas como uno de los insectos con mayor importancia; se dice que sin ellos desaparecería todo ser vivo de la tierra, son los encargados de polinizar haciendo posible la producción de semillas y flores.
+
+          .tarjeta.bgr-info.p-3(x="43.2%" y="92.6%" numero="+")
             h5 Las avispas
-            p Son grandiosos controladores naturales, atacan las plagas desde su inicio, consumen larvas e insectos dañinos.
-          div(x="66%" y="98%" tooltip="La mantis religiosa")
+            p Son grandiosas controladoras naturales, atacan las plagas desde su inicio, consumen larvas e insectos dañinos.
+
+          .tarjeta.bgr-info.p-3(x="64.5%" y="92.6%" numero="+")
             h5 La mantis religiosa
-            p Feroz depredador, actuando sobre cualquier insecto por lo que debemos ser prudentes con el número de estos dentro del cultivo ya que también ataca a los organismos benéficos.
-          div(x="86%" y="98%" tooltip="Las hormigas")
+            p Feroz depredador, actuando sobre cualquier insecto, por esta razón, se debe ser prudente, con el número de estos dentro del cultivo, ya que también ataca a los organismos benéficos.
+
+          .tarjeta.bgr-info.p-3(x="82.8%" y="92.6%" numero="+")
             h5 Las hormigas
-            p Algunas especies actúan como buen control biológico, actúan sobre gusanos y saltamontes.
+            p Algunas especies actúan como buen control biológico, sobre gusanos y saltamontes.
+
     
     .row.py-5.justify-content-center.align-items-center.mb-4
       .col-lg-8
@@ -102,11 +109,12 @@
         .p-4
           h2 Nematodos
           p Son los de mayor tamaño, gusanos redondos parasitarios, viven en el suelo y afectan principalmente la raíz actúan allí impidiendo que la planta tome los nutrientes produciendo desnutrición, las hojas se secan y declive general.           
-    separador
-    .titulo-segundo.color-secundario
-      h2 3.1.  Identificación y monitoreo
-    .row.justify-content-around.align-items-center.py-5
-      h2 Monitoreo de poblaciones en el cultivo.
+    
+    .row.mt-5
+      h3 Identificación y monitoreo
+      h4.mt-3 Monitoreo de poblaciones en el cultivo
+
+    .row.justify-content-around.align-items-center 
       .col-lg-8
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
@@ -116,12 +124,12 @@
           img(src='@/assets/curso/temas/t3/cultivo.svg', alt="")
     .row.py-5.align-items-center.align-items-center
         .bloque-texto-b.p-4
-          h3 Porque hacer el monitoreo
+          h3 ¿Por qué hacer el monitoreo?
           .bloque-texto-b__texto
             p La finalidad es detectar a tiempo los problemas para poder resolverlos y evitar que los daños sean graves sobre todos para cultivos de ciclo corto para tomar decisiones oportunas antes que sea demasiado tarde. El monitoreo mal hecho en los cultivos representa pérdidas significativas en las plantaciones. Esta técnica de igual manera nos permitirá un uso eficiente en los productos para combatir plagas teniendo en cuenta que debemos ser amigables con el ambiente al usar dichos artículos. Resulta útil también para los insectos benéficos que actúan como controladores de plagas, es necesario saber qué tipo de población asociada tenemos para realizar prácticas que favorezcan a estos aliados.
         .bloque-texto.p-4.mb-4
           .col-md-8
-            h4.mb-4 Herramientas de monitoreo
+            h3.mb-4 Herramientas de monitoreo
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
@@ -155,22 +163,23 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10 
         h3 Pasos para combatir una enfermedad o plaga
-        br
     
-    .row.justify-content-center.align-items-center.mb-4    
+    .row.justify-content-center.align-items-center.mb-4.mt-3   
       .col-lg-8
         figure(style="margin-top:-36px")
             img(src='@/assets/curso/temas/t3/img1.jpg', alt="")
     p La frecuencia del monitoreo se realiza dependiendo del ciclo de vida y la capacidad reproductiva de la plaga, en general se debe mantener un monitoreo constante, pero si encontramos las siguientes situaciones debemos aumentar la frecuencia. Cuando la plaga afecta el fruto, en periodos de brotación y próximos a la cosecha, temperaturas altas y cuando realizamos prácticas de control para medir la efectividad.
     p A continuación, podrá ver en un video en donde se abordan los aspectos mas importantes de este tema
-    separador
-    .titulo-segundo.color-secundario
-      h2 3.2. Manejo Ecológico de Plagas y Enfermedades (MEPE).
+    
+    .row.mt-5
+      h3 Manejo ecológico de plagas y enfermedades (MEPE)
+      p El manejo ecológico del cultivo, el control biológico, las medidas y las regulaciones que se le aplican a las plagas y enfermedades, son fundamentales para un adecuado proceso. A continuación, podrá ver un video donde se abordan los aspectos más importantes sobre este tema:
+
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    br
-    h3 Biocontroladores  
+    
+    h3.mt-3 Biocontroladores  
     p Son organismos vivos, su función es actuar como repelente siendo capaces de impedir el desarrollo de cuerpos que causen el mal funcionamiento de las plantas.  
     TabsC.mb-4
       .py-5.py-md-4(titulo="Tipos de biocontroladores")
@@ -244,9 +253,9 @@
           .col-md-3
             figure
               img(src='@/assets/curso/temas/t3/pest3.svg')
-    separador
-    .titulo-segundo.color-secundario
-      h2 3.3. Normatividad.
+    
+    .row.mt-5
+      h3 Normatividad.
     p Normatividad en producción ecológica
     .row.justify-content-center
         .col-lg-3 
@@ -260,10 +269,11 @@
             tr
               th Resolución MADR 148 de 2004
               td Sello de Alimento Ecológico
-    .row.justify-content-center.align-items-center
+
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-10  
         .bloque-texto-e.color-a.pt-4.px-5.mb-5
-          p Aquí concluye este componente formativo.  Recuerde explorar los demás recursos que se encuentran disponibles en este, para ello diríjase al menú principal en donde encontrará la síntesis, una actividad didáctica, material complementario, entre otros. 
+          p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
           br
 
 </template>

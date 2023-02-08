@@ -84,14 +84,6 @@ export default {
   },
   complementario: [
     {
-      tema: 'Poblaciones asociadas a cultivos.',
-      referencia:
-        'Servicio nacional de aprendizaje SENA (2012). <em>Agricultura ecológica: fertilización, suelo y cultivos.</em>',
-      tipo: 'PDF',
-      descarga:
-        'file:///C:/Users/Admin/Downloads/Unidad_4_Poblaciones_asociadas_a_los_cul.pdf',
-    },
-    {
       tema: 'Sistemas de riego',
       referencia:
         'Programa de manejo integrado de plagas en América Central. Carrera de ciencia y producción agropecuaria. Escuela agrícola panamericana, El Zamorano, Honduras. (2012). <em>Manual de Riego y Drenaje</em>.',
@@ -143,13 +135,13 @@ export default {
       referencia:
         'Briceño, M. F. Álvarez, U. Barahon (2012). Manual de Riego y Drenaje. Programa de Manejo Integrado de Plagas en América Central. Carrera de Ciencia y Producción Agropecuaria. Escuela Agrícola Panamericana, El Zamorano, Honduras. Consultado de:',
       link:
-        'https://www.se.gob.hn/media/files/media/Modulo_5_Manual_de_Riego_y_Drenaje.pdf',
+        'https://www.se.gob.hn/media/files/media/Modulo_5_Manual_de_Riego_y_Drenaje..pdf',
     },
     {
       referencia:
         'Ciancaglini, N. (2010). Guía para la determinación de textura de suelos por método organoléptico., pág. 10. Consultado de: ',
       link:
-        'https://www.se.gob.hn/media/files/media/Modulo_5_Manual_de_Riego_y_Drenaje.pdf',
+        'https://docplayer.es/222854420-R-guia-para-la-determinacion-de-textura-de-suelos-por-metodo-organoleptico.html',
     },
     {
       referencia:
@@ -160,7 +152,8 @@ export default {
     {
       referencia:
         'Ripa S., Renato y Larral D., Pilar (eds.) (2008). Manejo de plagas en paltos y cítricos [en línea]. Quillota, Chile: Versión Producciones Graficas Ltda.. Colección Libros INIA - Instituto de Investigaciones Agropecuarias. no. 23. Consultado de: ',
-      link: 'https://hdl.handle.net/20.500.14001/3509.',
+      link:
+        'https://frutales.files.wordpress.com/2011/01/cit-16-manejo-de-plagas-en-paltos-y-cc3adtricos.pdf',
     },
     {
       referencia:

@@ -10,8 +10,8 @@
             img(src="@/assets/curso/temas/actividad.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-secundario
-          h2 Preguntas de selección múltiple con única respuesta
-        p.mb-4 Afianzar algunos conceptos sobre vistos dentro del componente denominado “Prácticas de riego y manejo de poblaciones asociadas”. Como son: Agua, suelo, drenaje, enfermedades, plagas. Es importante realizar un repaso sobre los temas abordados con el objetivo de reforzar los conocimientos del aprendiz.
+          h2 Prácticas de riego y manejo de poblaciones asociadas
+        p.mb-4 Apreciado aprendiz, a continuación, encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

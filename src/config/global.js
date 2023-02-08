@@ -87,7 +87,7 @@ export default {
       tema: 'Poblaciones asociadas a cultivos.',
       referencia:
         'Servicio nacional de aprendizaje SENA (2012). <em>Agricultura ecológica: fertilización, suelo y cultivos.</em>',
-      tipo: 'otro',
+      tipo: 'PDF',
       descarga:
         'file:///C:/Users/Admin/Downloads/Unidad_4_Poblaciones_asociadas_a_los_cul.pdf',
     },
@@ -95,7 +95,7 @@ export default {
       tema: 'Sistemas de riego',
       referencia:
         'Programa de manejo integrado de plagas en América Central. Carrera de ciencia y producción agropecuaria. Escuela agrícola panamericana, El Zamorano, Honduras. (2012). <em>Manual de Riego y Drenaje</em>.',
-      tipo: 'otro',
+      tipo: 'PDF',
       descarga:
         'https://www.se.gob.hn/media/files/media/Modulo_5_Manual_de_Riego_y_Drenaje..pdf',
     },
@@ -103,7 +103,7 @@ export default {
       tema: 'Sistemas de riego',
       referencia:
         'Universidad Nacional Experimental Politécnica de la fuerza Armada Nacional (UNEFA). (2020).  <em>Manual de métodos de sistema de riego, guías, proyectos, investigaciones de fisiología de las plantas</em>.',
-      tipo: 'otro',
+      tipo: 'PDF',
       descarga:
         'https://fundacionsuna.org/wp-content/uploads/PDF/Jaime-Lamo/MANUAL-M%C3%89TODOS-DE-SISTEMAS-DE-RIEGO.pdf',
     },

@@ -204,7 +204,7 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
-                | La dilución debe realizarse en agua limpia y aplicarse directamente al follaje de las plantas que se encuentren afectados
+                | La dilución debe realizarse en agua limpia y aplicarse directamente al follaje de las plantas que se encuentren afectados.
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
@@ -224,7 +224,7 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
-                | El ph del agua usado para la disolución debe ser ente 5 y 6
+                | El ph del agua usado para la disolución debe ser ente 5 y 6.
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
@@ -270,7 +270,7 @@
               th Resolución MADR 148 de 2004
               td Sello de Alimento Ecológico
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-lg-10  
         .bloque-texto-e.color-a.pt-4.px-5.mb-5
           p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.

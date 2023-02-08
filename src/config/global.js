@@ -88,7 +88,7 @@ export default {
       referencia:
         'Programa de manejo integrado de plagas en América Central. Carrera de ciencia y producción agropecuaria. Escuela agrícola panamericana, El Zamorano, Honduras. (2012). <em>Manual de Riego y Drenaje</em>.',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://www.se.gob.hn/media/files/media/Modulo_5_Manual_de_Riego_y_Drenaje..pdf',
     },
     {
@@ -96,7 +96,7 @@ export default {
       referencia:
         'Universidad Nacional Experimental Politécnica de la fuerza Armada Nacional (UNEFA). (2020).  <em>Manual de métodos de sistema de riego, guías, proyectos, investigaciones de fisiología de las plantas</em>.',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://fundacionsuna.org/wp-content/uploads/PDF/Jaime-Lamo/MANUAL-M%C3%89TODOS-DE-SISTEMAS-DE-RIEGO.pdf',
     },
   ],

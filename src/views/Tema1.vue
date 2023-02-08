@@ -31,7 +31,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-8
         .bloque-texto-b.color-secundario.p-4
-          .bloque-texto-b__texto
+          .bloque-texto-b__texto.align-bloque-texto
             p Cuando se habla de cuenca hidrográfica se hace referencia al drenaje natural del agua. Es un área establecida naturalmente que cuenta con una depresión de terreno y rodeada por partes más altas por las cuales circula el líquido proveniente de la descongelación del hielo para desembocar en el mar. 
 
         p Es el proceso que involucra diversos entornos ecológicos y sociales, que demandan actividades de planeación, implementación y manejo, teniendo en cuenta todos los actores involucrados. Dentro del proceso de monitoreo de la cuenca hidrográfica, es importante entender la dinámica hidrológica y el funcionamiento ecosistémico, cultural, social e institucional de la misma, con fines a realizar un manejo integral de la misma.
@@ -101,18 +101,7 @@
           figure(style="margin-top:-36px")
             img(src='@/assets/curso/temas/t1/imgcasa.png', alt="")
 
-    h3 Uso eficiente y ahorro
-    .bloque-texto-a.p-4.p-md-5.mb-5 
-      .row.py-5.justify-content-center.align-items-center
-        .col-lg-4.d-none.d-lg-block
-          figure
-            img(src='@/assets/curso/temas/t1/imgpais.svg', alt="")
-        .col-lg-8
-          .bloque-texto-a__texto.p-4
-            p.mb-4 El cambio climático aumenta probablemente, de manera desmesurada las inundaciones y sequías en el planeta. La preocupación es grande, por lo que es necesario generar estrategias de uso eficiente y ahorro de agua. De igual forma, se debe tener en cuenta la contaminación de las fuentes hídricas las cuales deben ser protegidas y recuperadas en el contexto global es prioridad la conservación y la adecuada gestión de este recurso.
-
-            p.mb-4 Colombia por su ubicación geográfica se ve favorecida por la cantidad de fuentes hídricas, gracias a esto, el uso de este recurso es constante dada la cantidad. La industria, agricultura, minería y generación de energía, son los sectores que más demanda del recurso hídrico requieren. La realidad es que el agua se está acabando, su ciclo se transformó completamente y por lo tanto se debe ser responsable usando de forma racional este recurso.
-
+    
     h3 Captación de agua
 
     p.mb-4 La captación de aguas superficiales, son tomadas desde los ríos, embalses y lagos y es un proceso que se hace para aprovechar las fuentes hídricas. Los mecanismos que se usan son por bombeo y generalmente se utilizan cuando la fuente está por debajo del nivel en el cual va a ser usada y, por gravedad, cuando la fuente está por encima de la ubicación del usuario, con el fin de garantizar el suministro del agua.

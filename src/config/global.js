@@ -31,26 +31,6 @@ export default {
         numero: '1',
         titulo: 'Potencial hídrico',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Uso eficiente y ahorro',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Propiedades del suelo y agua',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Relación agua-suelo-planta y clima',
-            hash: 't_1_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -58,32 +38,6 @@ export default {
         numero: '2',
         titulo: 'Sistemas de riego',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Métodos y criterios de selección',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Variables y equipos de medición',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Requerimientos de riego',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Drenaje',
-            hash: 't_2_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -91,26 +45,6 @@ export default {
         numero: '3',
         titulo: 'Poblaciones asociadas al cultivo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Identificación y monitoreo',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Manejo Ecológico de Plagas y Enfermedades (MEPE).',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Normatividad.',
-            hash: 't_3_3',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -155,13 +89,6 @@ export default {
   },
   complementario: [
     {
-      tema: 'Monitoreo de plagas y registros',
-      referencia:
-        'Instituto de investigaciones agropecuarias. Centro regional de investigación (2008).',
-      tipo: 'otro',
-      link: 'https://www.avocadosource.com/books/ripa2008/ripa_chapter_03.pdf',
-    },
-    {
       tema: 'Poblaciones asociadas a cultivos.',
       referencia:
         'Servicio nacional de aprendizaje SENA (2012). Agricultura ecológica: fertilización, suelo y cultivos.',
@@ -188,7 +115,7 @@ export default {
   ],
   glosario: [
     {
-      termino: '<em>Agua</em>',
+      termino: 'Agua',
       significado:
         'el término agua, generalmente, se refiere a la sustancia en su estado líquido, pero la misma puede hallarse en su forma sólida llamada hielo, y en forma gaseosa denominada vapor.',
     },
@@ -231,7 +158,7 @@ export default {
     },
     {
       referencia:
-        'Jiménez, J. (2020). Manual de Métodos de Sistema de Riego, Guías, Proyectos, Investigaciones de Fisiología de las Plantas. Universidad Nacional Experimental Politécnica de la fuerza Armada Nacional (UNEFA).',
+        'Jiménez, J. (2020). <em>Manual de Métodos de Sistema de Riego</em>. Universidad Nacional Experimental Politécnica de la fuerza Armada Nacional (UNEFA).',
       link:
         'https://fundacionsuna.org/wp-content/uploads/PDF/Jaime-Lamo/MANUAL-M%C3%89TODOS-DE-SISTEMAS-DE-RIEGO.pdf',
     },
@@ -242,7 +169,7 @@ export default {
     },
     {
       referencia:
-        'Zumbado, M., & Jiménez, D. (2018). Programa Nacional de agricultura orgánica. Obtenido de Programa Nacional de agricultura orgánica. Consultado de. ',
+        'Zumbado, M., & Jiménez, D. (2018). <em>Insectos de importancia agrícola.</em>',
       link: 'http://www.mag.go.cr/bibliotecavirtual/H10-10951.pdf',
     },
   ],

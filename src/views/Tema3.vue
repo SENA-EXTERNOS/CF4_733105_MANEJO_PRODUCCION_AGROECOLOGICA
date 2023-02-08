@@ -133,19 +133,19 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
-                | Una lupa para observar insectos pequeños o huevos de insectos 
+                | Una lupa para observar insectos pequeños o huevos de insectos.
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
-                | Un frasco o bolsa plástica para recolectar especímenes de insectos para examinarlos después 
+                | Un frasco o bolsa plástica para recolectar especímenes de insectos para examinarlos después.
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
-                | Cinta indicadora o tiras de tela para marcar las plantas dañadas por insectos 
+                | Cinta indicadora o tiras de tela para marcar las plantas dañadas por insectos.
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
-                | Un lápiz y cuaderno para anotar las observaciones
+                | Un lápiz y cuaderno para anotar las observaciones.
 
 
     .row.py-5

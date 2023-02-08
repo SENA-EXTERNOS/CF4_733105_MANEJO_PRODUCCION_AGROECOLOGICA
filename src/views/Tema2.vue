@@ -162,7 +162,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 2
-              | Humedad, es la cantidad de vapor de agua que se encuentra dentro del aire  
+              | Humedad, es la cantidad de vapor de agua que se encuentra dentro del aire.
             li 
               .lista-ol--cuadro__vineta
                 span 3
@@ -278,20 +278,20 @@
         .col-lg-9  
           table
             tr
-              th Decreto 182 de 1968
-              td Por el cual se reglamenta el uso de aguas, operación, conservación y mantenimiento de los distritos de riego y avenamiento
+              th Decreto 182 de 1968.
+              td Por el cual se reglamenta el uso de aguas, operación, conservación y mantenimiento de los distritos de riego y avenamiento.
             tr
-              th Decreto 2314 de 1986
-              td Concesión de aguas
+              th Decreto 2314 de 1986.
+              td Concesión de aguas.
             tr
-              th Decreto 79 de 1986
-              td Conservación y protección del recurso agua
+              th Decreto 79 de 1986.
+              td Conservación y protección del recurso agua.
             tr
-              th Resolución 000132 de 2021
-              td Por la cual se adopta el manual de normas técnicas para sistemas de riego y drenaje a nivel predial
+              th Resolución 000132 de 2021.
+              td Por la cual se adopta el manual de normas técnicas para sistemas de riego y drenaje a nivel predial.
             tr
-              th Decreto 3930 del 2020
-              td Control y seguimiento ambiental del uso del agua y suelo para fines agropecuarios
+              th Decreto 3930 del 2020.
+              td Control y seguimiento ambiental del uso del agua y suelo para fines agropecuarios.
 
 
 

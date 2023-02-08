@@ -7,7 +7,7 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/curso/temas/actividad.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/seleccion.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-secundario
           h2 Prácticas de riego y manejo de poblaciones asociadas

@@ -268,6 +268,9 @@
 
     .row.justify-content-center  
       .col-10
+        .titulo-sexto.color-acento-contenido.mb-0
+          h5 Imagen:
+          p.mb-0 #[i Como se alimentan las Plantas]
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure

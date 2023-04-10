@@ -264,11 +264,11 @@
         .col-lg-9  
           table
             tr
-              th Resolución 187 de 2006
-              td Reglamento para la producción Orgánica
+              th Resolución 187 de 2006.
+              td Reglamento para la producción Orgánica.
             tr
-              th Resolución MADR 148 de 2004
-              td Sello de Alimento Ecológico
+              th Resolución MADR 148 de 2004.
+              td Sello de Alimento Ecológico.
 
     .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-lg-10  

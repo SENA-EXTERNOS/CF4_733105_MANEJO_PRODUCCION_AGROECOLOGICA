@@ -57,8 +57,8 @@
           .tarjeta.bgr-info.p-3(x="64%" y="35%" tooltip="Divisoria de aguas" numero="1")
             h5 Divisoria de aguas
             p O también denominada parteaguas, por lo general está ubicada en la parte más alta de las montañas donde está el límite natural y resulta ser una línea imaginaria que limita las vertientes hidrográficas, y la separa de otras cuencas.
-          .tarjeta.bgr-info.p-3(x="82%" y="49%" tooltip="Rio principal" numero="2")
-            h5 Rio principal
+          .tarjeta.bgr-info.p-3(x="82%" y="49%" tooltip="Río principal" numero="2")
+            h5 Río principal
             p Se define como el curso con mayor caudal y longitud, el cual cuenta con una parte alta o superior, una parte media y una parte baja o inferior.
           .tarjeta.bgr-info.p-3(x="80%" y="62%" tooltip="Cauce" numero="3")
             h5 Cauce
@@ -127,7 +127,7 @@
           figure
             img(src='@/assets/curso/temas/t1/acor1.svg', alt='Texto que describa la imagen')
         .col-md-5.mb-4.mb-md-0
-          p Por lo general este tipo de obra es usada para regar cultivos que se encuentren cerca al rio y consiste en realizar una abertura en al cauce natural y dirigiendo el agua por medio de un sistema de conducción, que la mayoría de veces suele ser un canal.
+          p Por lo general este tipo de obra es usada para regar cultivos que se encuentren cerca al río y consiste en realizar una abertura en al cauce natural y dirigiendo el agua por medio de un sistema de conducción, que la mayoría de veces suele ser un canal.
       .row(titulo="Solera").py-5.justify-content-center.align-items-center
         .col-md-5.mb-4.mb-md-0
           p El éxito de esta toma radica en lograr la captación de la parte inferior de un escurrimiento  donde las condiciones naturales de flujo se alteran mediante una cámara transversal de captación.
@@ -146,7 +146,7 @@
             li 
               i.fas.fa-snowflake
               | Fuentes de agua.
-          p.mb-4 Es principalmente el sitio que abastece el sistema que ejecutará el riego del cultivo, de esto depende el cálculo del área máxima que podemos regar. Cuando el agua proviene de partes altas debemos calcular el caudal por medio de aforo, mientras que si lo hacemos directamente del rio con motobomba debemos tener en cuenta las especificaciones del equipo que vamos a usar.     
+          p.mb-4 Es principalmente el sitio que abastece el sistema que ejecutará el riego del cultivo, de esto depende el cálculo del área máxima que podemos regar. Cuando el agua proviene de partes altas debemos calcular el caudal por medio de aforo, mientras que si lo hacemos directamente del río con motobomba debemos tener en cuenta las especificaciones del equipo que vamos a usar.     
       .row(titulo="Cosecha de agua").py-5.justify-content-center.align-items-center
         .col-md-5.mb-4.mb-md-0
           p En zonas donde no existan fuentes de agua, es imprescindible tener acceso al recurso, para lo cual se busca construir pequeñas lagunas para captar aguas lluvias, y utilizarlas en temporada de menos lluvias. Dicha estructura debe ser construida en un punto más alto respecto a donde se encuentran las parcelas a regar. En la zona de recarga debe llevar un vaso natural y debe tener un talud. Los suelos óptimos para realizar construcción son los arcillosos, de no tener esta característica, es necesario usar geo membrana, plástico o cemento.
@@ -171,12 +171,12 @@
     .row.mt-5
       h3 Propiedades del suelo y agua
 
-    p El suelo es un recurso natural de vital importancia ya que es no renovable, su composición mayormente es por sustancias solidadas, dentro de las encontramos la materia orgánica, organismos y minerales además de agua y aire, la cantidad de estos componentes son los que conceden las propiedades físicas, químicas y biológicas
+    p El suelo es un recurso natural de vital importancia, ya que es no renovable, su composición mayormente es por sustancias solidadas, dentro de ellas encontramos, la materia orgánica, organismos y minerales, además de agua y aire, la cantidad de estos componentes son los que conceden las propiedades físicas, químicas y biológicas
     .bloque-texto-f.pt-4.px-5.mb-5
       .row.py-5.justify-content-center.align-items-center
         .col-lg-7
-          p.mb-4 Que el suelo sea productivo no solo depende de la disponibilidad de nutrientes, sino que también debe reunir ciertas características físicas, pues el crecimiento de las partes aéreas depende en gran medida del desarrollo de la raíz además del balance de humedad, y aireación del suelo.
-          p.mb-4 Por lo anterior concluimos que las propiedades físicas del suelo son el resultado de la interacción del (suelo, agua y aire) y la cantidad en que se encuentran cada una de ellas.  la condición física del suelo determina la capacidad de sostenimiento, habilidad para penetrar las raíces, circulación de aire, almacenamiento de agua, drenaje, retención de nutrientes (macro y micro nutrientes).
+          p.mb-4 Que el suelo sea productivo no solo depende de la disponibilidad de nutrientes, sino que también debe reunir ciertas características físicas, pues el crecimiento de las partes aéreas depende en gran medida del desarrollo de la raíz, además del balance de humedad, y aireación del suelo.
+          p.mb-4 Por lo anterior concluimos que las propiedades físicas del suelo son el resultado de la interacción del (suelo, agua y aire) y la cantidad en que se encuentran cada una de ellas. La condición física del suelo determina la capacidad de sostenimiento, habilidad para penetrar las raíces, circulación de aire, almacenamiento de agua, drenaje, retención de nutrientes (macro y micronutrientes).
         .col-lg-4.d-none.d-lg-block
           figure(style="margin-top:-36px")
             img(src='@/assets/curso/temas/t1/suelo.svg', alt="")
@@ -212,7 +212,7 @@
       .row(titulo="Determinación de la textura de forma manual").py-5.justify-content-center.align-items-center
         .col-md-5
           p Para determinar la textura de forma manual, hay que hacer una modificación al triángulo textural, el cual queda constituido por suelos con textura arcillosa, franco-arcillosa y franca.
-          p.mb-4 Para realizar el proceso se debe tomar una porción de suelo y formar una pelota, humedeciéndola hasta llegar al punto pegajoso, el cual se logra cuando la pelota de suelo no esta tan húmeda y se quiebra pegada en la mano, pero tampoco tan seca que no se sienta pegajosa. Cuando el suelo está en su punto, se debe presionar entre el dedo pulgar y el índice y se forme una plasta, lo más larga posible.
+          p.mb-4 Para realizar el proceso se debe tomar una porción de suelo y formar una pelota, humedeciéndola hasta llegar al punto pegajoso, el cual se logra cuando la pelota de suelo no está tan húmeda y se quiebra pegada en la mano, pero tampoco tan seca que no se sienta pegajosa. Cuando el suelo está en su punto, se debe presionar entre el dedo pulgar y el índice y se forme una plasta, lo más larga posible.
           p.mb-4 Al igual que el pH, es recomendable medirla “in situ”, para mantener el valor reportado durante su transporte y posterior análisis.
         .col-1
         .col-md-5
@@ -221,7 +221,7 @@
             figcaption Fuente: <a href="https://fundacionsuna.org/wp-content/uploads/PDF/Jaime-Lamo/MANUAL-M%C3%89TODOS-DE-SISTEMAS-DE-RIEGO.pdf" target="_blank">https://fundacionsuna.org/wp-content/uploads/PDF/Jaime-Lamo/MANUAL-M%C3%89TODOS-DE-SISTEMAS-DE-RIEGO.pdf</a>
       .row(titulo="Estructura").py-5.justify-content-center.align-items-center
         .col-md-5
-          p La estructura simplemente es la manera que las partículas se agrupan entre sí para formar agregados del suelo.
+          p La estructura simplemente es la manera en que las partículas se agrupan entre sí para formar agregados del suelo.
           
         .col-1
         .col-md-5
@@ -298,21 +298,21 @@
           .tarjeta.color
             .p-4
               h3.text-center <br> Temperatura
-              p La temperatura influye en gran parte en el crecimiento y el metabolismo de las plantas, por lo tanto debe ser óptima para asegurar el buen desarrollo y crecimiento de los cultivos.
+              p La temperatura influye en gran parte en el crecimiento y el metabolismo de las plantas, por lo tanto, debe ser óptima para asegurar el buen desarrollo y crecimiento de los cultivos.
       .col-xl-4.col-md-6.my-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/humedad.svg' alt='AvatarTop')
           .tarjeta.color
             .p-4
               h3.text-center <br> Humedad relativa
-              p Cuando se habla de humedad relativa, nos referimos  la cantidad de vapor de agua presente en el aire. En el cultivo cuando la humedad relativa es alta, la planta pierde agua a un ritmo menor a diferencia de cuando esta baja.
+              p Cuando se habla de humedad relativa, nos referimos a la cantidad de vapor de agua presente en el aire. En el cultivo, cuando la humedad relativa es alta, la planta pierde agua a un ritmo menor a diferencia de cuando está baja.
       .col-xl-4.col-md-6.my-3
         .tarjeta-avatar
           img(src='@/assets/curso/temas/t1/viento.svg' alt='AvatarTop')
           .tarjeta.color
             .p-4
               h3.text-center <br> Viento
-              p A la hora de realizar el riego esta variable toma un papel importante, los fuertes vientos hacen que los suelos se sequen mas rápido y por lo tanto el cultivo pierde más agua.
+              p A la hora de realizar el riego, esta variable toma un papel importante, los fuertes vientos hacen que los suelos se sequen más rápido y por lo tanto, el cultivo pierde más agua.
 
 </template>
 

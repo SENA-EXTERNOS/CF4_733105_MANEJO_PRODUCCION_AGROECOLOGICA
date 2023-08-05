@@ -7,7 +7,7 @@
         span 2
       h1 Sistemas de riego
     p El riego es una técnica que consiste en suministrar agua al suelo para que las plantas realicen su desarrollo dependiendo de la necesidad se puede aplicar en forma de gotas o por aspersión en finas gotas.
-    p Los emisores varían según tipo y modelo, desde los tubos perforados, o micro tubos a grandes diseños, por lo cual los sistemas de riego se basan en el tipo de emisor utilizado.
+    p Los emisores varían según tipo y modelo, desde los tubos perforados, o micro tubos, a grandes diseños, por lo cual los sistemas de riego se basan en el tipo de emisor utilizado.
     .row.justify-content-center.align-items-center
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
@@ -24,7 +24,7 @@
             .tarjeta-slide__contenido.p-4.p-xl-5
               h1 Métodos superficiales
               p Este método debemos asegurar que  el agua penetre la superficie a intervalos de tiempo, hasta que la lámina de agua alcance un espesor adecuado para su manejo,  permitiendo que el agua entre en el suelo a medida que esta escurre sobre el terreno. 
-              p A continuación se explicara los métodos de riego superficiales que más usados en las explotaciones agrícolas:
+              p A continuación se explicará los métodos de riego superficiales que más usados en las explotaciones agrícolas:
               p Existen dos tipos de Métodos superficiales para riego que se describen a continuación:
               h4 Por surcos y por Inundación
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/t1.jpg')})`}")          
@@ -34,7 +34,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               h1 Método por surcos
-              p También es denominado como riego por gravedad y el cual consiste en colocar el agua en la cabecera de las zanjas y lograr que el líquido avance hasta el extremo más bajo. Factores importantes a tener en cuenta son el relieve y la pendiente del terreno. Es ideal para todo tipo de suelos la infiltración sea buena y funciona de manera eficiente en terrenos llanos.
+              p También es denominado como riego por gravedad y el cual consiste en colocar el agua en la cabecera de las zanjas y lograr que el líquido avance hasta el extremo más bajo. Factores importantes a tener en cuenta son el relieve y la pendiente del terreno. Es ideal para todo tipo de suelos, la infiltración sea buena y funciona de manera eficiente en terrenos llanos.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/t2.jpg')})`}")
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false")
@@ -52,7 +52,7 @@
             .tarjeta-slide__contenido.p-4.p-xl-5
               h1 Métodos por aspersión
               p Es un sistema de riego a presión que implica la aplicación del agua en forma de lluvia más o menos intensa y uniforme sobre la parcela, con el fin de que el agua se infiltre en el mismo punto donde cae.
-              p El agua es asperjada, es decir el caudal es suministrado en innumerables gotas pequeñas de agua, las cuales penetran el suelo, al tiempo que se aplica.<br><br><br><br><br><br><br>
+              p El agua es asperjada, es decir, el caudal es suministrado en innumerables gotas pequeñas de agua, las cuales penetran el suelo, al tiempo que se aplica.<br><br><br><br><br><br><br>
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/t4.jpg')})`}")
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false")

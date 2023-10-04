@@ -6,8 +6,8 @@
       .titulo-principal__numero
         span 1
       h1 Potencial hídrico
-    p El éxito de la producción agrícola está reflejado en el desarrollo de productos de excelente calidad para la comercialización. Sin embargo, hay que realizar un seguimiento detallado de los recursos que intervienen en el proceso, esta vez hablaremos del agua como factor importante para garantizar alcanzar los rendimientos y resultados esperados. 
-    p.mb-4 Por cierto, sabemos que el agua está involucrada en distintos sectores, es usada en diversas tareas, debemos entender que es un recurso limitado y por lo tanto debemos darle un uso eficiente. La agricultura es el sector donde más consumo hay, por lo que se ha optado por introducir la tecnología para generar alternativas de riego, uso controlado del drenaje, supervisión de las etapas de la planta y dar uso adecuado del agua en el proceso, tratado de afectar mínimamente su ciclo.
+    p El éxito de la producción agrícola está reflejado en el desarrollo de productos de excelente calidad para la comercialización. Sin embargo, hay que realizar un seguimiento detallado de los recursos que intervienen en el proceso, esta vez se hablará del agua como factor importante para garantizar los rendimientos y resultados esperados.
+    p.mb-4 Por cierto, se sabe que el agua está involucrada en distintos sectores, es usada en diversas tareas, se debe entender que es un recurso limitado y por lo tanto es necesario darle un uso eficiente. La agricultura es el sector donde más consumo hay, por lo que se ha optado por introducir la tecnología para generar alternativas de riego, uso controlado del drenaje, supervisión de las etapas de la planta y dar uso adecuado del agua en el proceso, tratando de afectar mínimamente su ciclo.
 
 
     .row.py-5.justify-content-center.align-items-center.bgr1-tema1
@@ -19,11 +19,11 @@
         .titulo-segundo.color-secundario
           h2 Agua
         
-        p.mb-4 Cuando se habla del agua, se dice que es una sustancia líquida que no contiene olor, ni sabor, ni color, pero también se puede decir que es una molécula compuesta por dos átomos de hidrógeno y uno de oxígeno, los cuales están unidos mediante enlaces covalentes y en la superficie de la tierra se puede encontrar en distintos estados (sólido, líquido y gaseoso).
+        p.mb-4 Cuando se habla del agua, se dice que es una sustancia líquida que no contiene olor, ni sabor, ni color, pero también se puede decir que es una molécula compuesta por dos átomos de hidrógeno y uno de oxígeno, los cuales están unidos mediante enlaces covalentes y en la superficie de la Tierra se puede encontrar en distintos estados (sólido, líquido y gaseoso).
 
-        p.mb-4 Los estudios indican que aproximadamente el 71 % de la superficie terrestre es agua, y principalmente está concentrada en los océanos, por otro lado, se encuentran los glaciares polares que constituyen el 1.74 %, las reservas subterráneas. Los lagos, la humedad del suelo, la atmósfera, los embalses, los ríos y los seres vivos, completan el porcentaje para convertirlo en el recurso más abundante del planeta tierra.
+        p.mb-4 Los estudios indican que aproximadamente el 71 % de la superficie terrestre es agua, y principalmente está concentrada en los océanos; por otro lado, se encuentran los glaciares polares que constituyen el 1.74 % de las reservas subterráneas. Los lagos, la humedad del suelo, la atmósfera, los embalses, los ríos y los seres vivos, completan el porcentaje para convertirlo en el recurso más abundante del planeta Tierra.
 
-        p.mb-4 Sin duda alguna el agua juega un papel importante para el ser humano, los animales y los sistemas de producción agrícola y pecuaria siendo necesario hacer un uso racional y un manejo sostenible de ella, dado que su escasez produce problemas de salud, perdida de las cosechas lo que genera inseguridad alimentaria y problemática social. 
+        p.mb-4 Sin duda alguna el agua juega un papel importante para el ser humano, los animales y los sistemas de producción agrícola y pecuaria, siendo necesario hacer un uso racional y un manejo sostenible de ella; dado que su escasez produce problemas de salud, perdida de las cosechas lo que genera inseguridad alimentaria y problemática social. 
     
     .titulo.mt-5
           h2 Cuenca hidrográfica
@@ -34,9 +34,9 @@
           .bloque-texto-b__texto.align-bloque-texto
             p Cuando se habla de cuenca hidrográfica se hace referencia al drenaje natural del agua. Es un área establecida naturalmente que cuenta con una depresión de terreno y rodeada por partes más altas por las cuales circula el líquido proveniente de la descongelación del hielo para desembocar en el mar. 
 
-        p Es el proceso que involucra diversos entornos ecológicos y sociales, que demandan actividades de planeación, implementación y manejo, teniendo en cuenta todos los actores involucrados. Dentro del proceso de monitoreo de la cuenca hidrográfica, es importante entender la dinámica hidrológica y el funcionamiento ecosistémico, cultural, social e institucional de la misma, con fines a realizar un manejo integral de la misma.
+        p Es el proceso que involucra diversos entornos ecológicos y sociales que demandan actividades de planeación, implementación y manejo, teniendo en cuenta todos los actores involucrados. Dentro del proceso de monitoreo de la cuenca hidrográfica es importante entender la dinámica hidrológica y el funcionamiento ecosistémico, cultural, social e institucional de la misma, con fines a realizar un manejo integral de la misma.
 
-        p Estas cuencas hidrográficas a nivel ecosistema, son importantes y están estrechamente involucradas en el desarrollo de las actividades humanas, ya que son las encargadas de regular el flujo de agua evitando riesgos naturales como inundaciones, además regulan la calidad del agua y visualmente aportan belleza paisajística.
+        p Estas cuencas hidrográficas a nivel ecosistema son importantes y están estrechamente involucradas en el desarrollo de las actividades humanas, ya que son las encargadas de regular el flujo de agua evitando riesgos naturales como inundaciones, además regulan la calidad del agua y visualmente aportan belleza paisajística.
       
       .col-lg-4
           img(src='@/assets/curso/temas/t1/cuenca.svg')
@@ -104,7 +104,7 @@
     
     h3 Captación de agua
 
-    p.mb-4 La captación de aguas superficiales, son tomadas desde los ríos, embalses y lagos y es un proceso que se hace para aprovechar las fuentes hídricas. Los mecanismos que se usan son por bombeo y generalmente se utilizan cuando la fuente está por debajo del nivel en el cual va a ser usada y, por gravedad, cuando la fuente está por encima de la ubicación del usuario, con el fin de garantizar el suministro del agua.
+    p.mb-4 La captación de aguas superficiales, son tomadas desde los ríos, embalses y lagos y es un proceso que se hace para aprovechar las fuentes hídricas. Los mecanismos que se usan son por bombeo, generalmente se utilizan cuando la fuente está por debajo del nivel en el cual va a ser usada y por gravedad, cuando la fuente está por encima de la ubicación del usuario con el fin de garantizar el suministro del agua.
 
     .row.py-5.justify-content-center.align-items-center
       .col-lg-8
@@ -113,7 +113,7 @@
 
             h4.mb-4 Requisitos generales de las obras de captación.
 
-            p.mb-4 En Colombia rigen varias normas y permisos para realizar obras de captación de agua, estas deben cumplir con ciertos requisitos que permiten realizar un manejo adecuado de la fuente de abastecimiento, dentro de las que se tienen. Cuando se habla de diseño se debe tener en cuenta que el caudal y la construcción esté dentro de los parámetros. Es decir, que el caudal extraído debe ser el adecuado según lo que requiere la fuente de abastecimiento. También es necesario evaluar los efectos destructivos, para lo cual se debe calcular el volumen y la frecuencia de las crecidas, para así planificar el diseño adecuado. Debe contar con medios de limpieza, control de caudales y tener controladores de materiales extraños. 
+            p.mb-4 En Colombia rigen varias normas y permisos para realizar obras de captación de agua, estas deben cumplir con ciertos requisitos que permiten realizar un manejo adecuado de la fuente de abastecimiento. Cuando se habla de diseño se debe tener en cuenta que el caudal y la construcción esté dentro de los parámetros; es decir, que el caudal extraído debe ser el adecuado según lo que requiere la fuente de abastecimiento. También es necesario evaluar los efectos destructivos, para lo cual se debe calcular el volumen y la frecuencia de las crecidas, para así planificar el diseño adecuado. Debe contar con medios de limpieza, control de caudales y tener controladores de materiales extraños.
 
 
       .col-lg-4.d-none.d-lg-block
@@ -127,7 +127,7 @@
           figure
             img(src='@/assets/curso/temas/t1/acor1.svg', alt='Texto que describa la imagen')
         .col-md-5.mb-4.mb-md-0
-          p Por lo general este tipo de obra es usada para regar cultivos que se encuentren cerca al río y consiste en realizar una abertura en al cauce natural y dirigiendo el agua por medio de un sistema de conducción, que la mayoría de veces suele ser un canal.
+          p Por lo general este tipo de obra es usada para regar cultivos que se encuentren cerca al río y consiste en realizar una abertura en el cauce natural y dirigiendo el agua por medio de un sistema de conducción, que la mayoría de veces suele ser un canal.
       .row(titulo="Solera").py-5.justify-content-center.align-items-center
         .col-md-5.mb-4.mb-md-0
           p El éxito de esta toma radica en lograr la captación de la parte inferior de un escurrimiento  donde las condiciones naturales de flujo se alteran mediante una cámara transversal de captación.
@@ -140,13 +140,13 @@
           figure
             img(src='@/assets/curso/temas/t1/acor3.svg', alt='Texto que describa la imagen')
         .col-md-5.mb-4.mb-md-0
-          p Al hablar de caudal nos referimos a la cantidad de agua que suministra una fuente hídrica durante una unidad de tiempo y la determinamos a través de aforos, es una técnica que consiste en medir la cantidad de agua que circula en un tiempo determinado y su unidad de medida es litros por segundos (l/seg.).
-          p.mb-4 La dotación es simplemente la cantidad de agua que una persona tiene derecho para realizar sus actividades diarias. La capacidad de una fuente hídrica  para suministrar agua a una comunidad la podemos estimar de  la siguiente  forma, calculando la dotación y multiplicando por el número de personas que residen ahí.
+          p Al hablar de caudal se refiere a la cantidad de agua que suministra una fuente hídrica durante una unidad de tiempo y se determina a través de aforos, es una técnica que consiste en medir la cantidad de agua que circula en un tiempo determinado y su unidad de medida es litros por segundos (l/s).
+          p.mb-4 La dotación es simplemente la cantidad de agua que una persona tiene derecho para realizar sus actividades diarias. La capacidad de una fuente hídrica  para suministrar agua a una comunidad se puede estimar de  la siguiente  forma, calculando la dotación y multiplicando por el número de personas que residen ahí.
           ul.lista-ul--color
             li 
               i.fas.fa-snowflake
               | Fuentes de agua.
-          p.mb-4 Es principalmente el sitio que abastece el sistema que ejecutará el riego del cultivo, de esto depende el cálculo del área máxima que podemos regar. Cuando el agua proviene de partes altas debemos calcular el caudal por medio de aforo, mientras que si lo hacemos directamente del río con motobomba debemos tener en cuenta las especificaciones del equipo que vamos a usar.     
+          p.mb-4 Es principalmente el sitio que abastece el sistema que ejecutará el riego del cultivo, de esto depende el cálculo del área máxima que se puede regar. Cuando el agua proviene de partes altas se debe calcular el caudal por medio de aforo, mientras que si se hace directamente del río con motobomba se debe tener en cuenta las especificaciones del equipo que se va a usar.     
       .row(titulo="Cosecha de agua").py-5.justify-content-center.align-items-center
         .col-md-5.mb-4.mb-md-0
           p En zonas donde no existan fuentes de agua, es imprescindible tener acceso al recurso, para lo cual se busca construir pequeñas lagunas para captar aguas lluvias, y utilizarlas en temporada de menos lluvias. Dicha estructura debe ser construida en un punto más alto respecto a donde se encuentran las parcelas a regar. En la zona de recarga debe llevar un vaso natural y debe tener un talud. Los suelos óptimos para realizar construcción son los arcillosos, de no tener esta característica, es necesario usar geo membrana, plástico o cemento.
@@ -156,7 +156,7 @@
             img(src='@/assets/curso/temas/t1/acor4.svg', alt='Texto que describa la imagen')
       .row(titulo="Aforo").py-5.justify-content-center.align-items-center
         .col-md-10.mb-4.mb-md-0
-          p.mb-4 El aforo es la actividad con la cual medimos el volumen del agua que tiene una fuente el método para medirlo es el siguiente.
+          p.mb-4 El aforo es la actividad con la cual se mide el volumen del agua que tiene una fuente el método para medirlo es el siguiente.
           ul.lista-ul--color
             li 
               i.fas.fa-snowflake
@@ -171,12 +171,12 @@
     .row.mt-5
       h3 Propiedades del suelo y agua
 
-    p El suelo es un recurso natural de vital importancia, ya que es no renovable, su composición mayormente es por sustancias solidadas, dentro de ellas encontramos, la materia orgánica, organismos y minerales, además de agua y aire, la cantidad de estos componentes son los que conceden las propiedades físicas, químicas y biológicas
+    p El suelo es un recurso natural de vital importancia, ya que es no renovable, su composición mayormente es por sustancias solidadas, dentro de ellas se encuentran, la materia orgánica, organismos y minerales, además de agua y aire, la cantidad de estos componentes son los que conceden las propiedades físicas, químicas y biológicas
     .bloque-texto-f.pt-4.px-5.mb-5
       .row.py-5.justify-content-center.align-items-center
         .col-lg-7
           p.mb-4 Que el suelo sea productivo no solo depende de la disponibilidad de nutrientes, sino que también debe reunir ciertas características físicas, pues el crecimiento de las partes aéreas depende en gran medida del desarrollo de la raíz, además del balance de humedad, y aireación del suelo.
-          p.mb-4 Por lo anterior concluimos que las propiedades físicas del suelo son el resultado de la interacción del (suelo, agua y aire) y la cantidad en que se encuentran cada una de ellas. La condición física del suelo determina la capacidad de sostenimiento, habilidad para penetrar las raíces, circulación de aire, almacenamiento de agua, drenaje, retención de nutrientes (macro y micronutrientes).
+          p.mb-4 Por lo anterior concluye que las propiedades físicas del suelo son el resultado de la interacción del (suelo, agua y aire) y la cantidad en que se encuentran cada una de ellas. La condición física del suelo determina la capacidad de sostenimiento, habilidad para penetrar las raíces, circulación de aire, almacenamiento de agua, drenaje, retención de nutrientes (macro y micronutrientes).
         .col-lg-4.d-none.d-lg-block
           figure(style="margin-top:-36px")
             img(src='@/assets/curso/temas/t1/suelo.svg', alt="")
@@ -195,14 +195,14 @@
           .row.py-5.justify-content-center.align-items-center         
               figure
                 img(src='@/assets/curso/temas/t1/tabla1.svg', alt='Texto que describa la imagen')
-                figcaption Nota. Tomado del suelo y la producción vegetal. Apuntes de agronomía.   <a href="http://prepa.chapingo.mx/wpcontent/uploads/2019/01/ANTOLOGIA-IIII2.pdf" target="_blank">http://prepa.chapingo.mx/wpcontent/uploads/2019/01/ANTOLOGIA-IIII2.pdf</a>
+                figcaption Nota. Tomado del suelo y la producción vegetal. Apuntes de agronomía.   <a href="https://www.studocu.com/es-mx/document/universidad-autonoma-chapingo/agronomia/apuntes-de-agronomia-1-unidad-1-programa-de-agronomia/17260281" target="_blank">https://www.studocu.com/es-mx/document/universidad-autonoma-chapingo/agronomia/apuntes-de-agronomia-1-unidad-1-programa-de-agronomia/17260281</a>
 
           p Existen diferentes métodos para determinar la textura del suelo, entre las que encontramos:
           ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
                 | Triángulo textural, el cual clasifica la textura del suelo en doce clases dependiendo su porcentaje de arena, limo y arcilla.  
-          p.mb-4 El cual clasifica la textura del suelo en doce clases dependiendo su porcentaje de arena, limo y arcilla.
+
         .col-1
         .col-md-5
           figure
@@ -230,7 +230,7 @@
    
    
     h3 Agua en el suelo y estados de humedad
-    p.mb-4 Para el suelo es importante la humedad, en el encontramos diferentes tipos de agua, las cuales el papel es fundamental para el desarrollo de la planta, dentro de las que encontramos.
+    p.mb-4 Para el suelo es importante la humedad, en él se encuentran diferentes tipos de agua, las cuales el papel es fundamental para el desarrollo de la planta, dentro de las que se tienen:
     .row.justify-content-center
         .col-sm-10.col-xl-4.col-md-6.my-3
           .tarjeta.tarjeta-slide.abajo(@mouseover="indicadorTarjetaSlide = false")
@@ -240,7 +240,7 @@
                     img(src='@/assets/curso/temas/t1/fondotarjeta.svg', alt="")
               .tarjeta-slide__contenido.p-4.p-xl-5
                 h3 Agua gravitacional
-                p Es la fracción de agua que encontramos en los macro poros. Esta parte de agua en el suelo es la que se mueve con ayuda de la fuerza de gravedad, por lo cual tiende a desplazarse hacia abajo. Dicha porción de agua favorecer el crecimiento de las plantas cuando se encuentra en el estrato radicular.<br><br><br><br><br>
+                p Es la fracción de agua que se encuentran en los macro poros. Esta parte de agua en el suelo es la que se mueve con ayuda de la fuerza de gravedad, por lo cual tiende a desplazarse hacia abajo. Dicha porción de agua favorecer el crecimiento de las plantas cuando se encuentra en el estrato radicular.<br><br><br><br><br>
         .col-sm-10.col-xl-4.col-md-6.my-3
           .tarjeta.tarjeta-slide.abajo(@mouseover="indicadorTarjetaSlide = false")
             .tarjeta-slide__contenedor
@@ -249,7 +249,7 @@
                     img(src='@/assets/curso/temas/t1/fondotarjeta.svg', alt="")
               .tarjeta-slide__contenido.p-4.p-xl-5
                 h3 Agua capilar
-                p Es la porción de agua que encontramos en los microporos y que se conserva en el suelo por ayuda de las fuerzas procedentes de la tensión superficial (adhesión y cohesión).
+                p Es la porción de agua que se encuentran en los microporos y que se conserva en el suelo por ayuda de las fuerzas procedentes de la tensión superficial (adhesión y cohesión).
                 p Cuando se habla de fuerzas de adhesión, se hace referencia a la fuerza que permite la unión entre una partícula y una superficie, mientras que la fuerza de cohesión es la que permite la unión entre partículas iguales.
         .col-xl-4.col-md-6.my-3
           .tarjeta.tarjeta-slide.abajo(@mouseover="indicadorTarjetaSlide = false")
@@ -270,7 +270,7 @@
       .col-10
         .titulo-sexto.color-acento-contenido.mb-0
           h5 Imagen:
-          p.mb-0 #[i Como se alimentan las Plantas]
+          p.mb-0 #[i Cómo se alimentan las Plantas]
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
@@ -284,10 +284,10 @@
             p Al hablar de transpiración, se hace referencia a la vaporización del agua líquida contenida en el tejido vegetal y a su vez la remoción de este vapor a la atmósfera. En los cultivos este vapor de agua se pierde a través  de los estomas, pues la planta toma el agua y los nutrientes a través de las raíces, y la vaporización ocurre en las hojas, en donde los estomas regulan el intercambio gaseoso, por lo cual la mayoría del agua que ingresa a la planta es transportada y otra pequeña parte utilizada por la planta.
           .tarjeta.bgr-info.p-3(x="38%" y="70%" numero="3")
             .h5.mb-2 Evaporación 
-            p Es el proceso por el cual un líquido se convierte en vapor de agua para posteriormente ser removido a la superficie. El proceso sucede en las aguas superficiales con ayuda de la energía solar quienes ayuda al cambiar de estado líquidos a estado gaseoso las moléculas de agua. En dicho proceso interviene la radiación solar, la temperatura del aire, la humedad relativa u la velocidad del viento.
+            p Es el proceso por el cual un líquido se convierte en vapor de agua para posteriormente ser removido a la superficie. El proceso sucede en las aguas superficiales con ayuda de la energía solar quien ayuda al cambiar de estado líquido a estado gaseoso las moléculas de agua. En dicho proceso interviene la radiación solar, la temperatura del aire, la humedad relativa y la velocidad del viento.
           .tarjeta.bgr-info.p-3(x="20%" y="73%" numero="4")
             .h5.mb-2 Evapotranspiración 
-            p La evapotranspiración es la perdida de humedad de una superficie, generada por evaporación directa, junto con la perdida de agua por transpiración. Los procesos de evaporación y transpiración ocurren de manera sincronizada, de esta manera  la evaporación del suelo al momento del establecimiento de cultivo depende de la radicación solar sobre la superficie, la cual disminuye a medida que el cultivo va desarrollando follaje, el cual sombrea la superficie del suelo.
+            p La evapotranspiración es la pérdida de humedad de una superficie, generada por evaporación directa, junto con la pérdida de agua por transpiración. Los procesos de evaporación y transpiración ocurren de manera sincronizada, de esta manera  la evaporación del suelo al momento del establecimiento de cultivo depende de la radicación solar sobre la superficie, la cual disminuye a medida que el cultivo va desarrollando follaje, el cual sombrea la superficie del suelo.
     h3 Influencia del clima
     p La influencia del clima está dada por variables como:
 

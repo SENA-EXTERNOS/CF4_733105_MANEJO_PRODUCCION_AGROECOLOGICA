@@ -9,9 +9,9 @@
           i.fas.fa-info
       h1 Introducción
     .row.mb-5
-        p Apreciado aprendiz, bienvenido a este componente formativo, que aborda las prácticas de riego y manejo de poblaciones asociadas para la producción agroecológica; se desarrollarán elementos teóricos fundamentales de los sistemas de riego en cultivos, a partir del uso eficiente de los recursos, desde los planteamientos de la normativa ambiental. Así mismo, se abordarán aspectos importantes relacionados con el control proporcionado de las poblaciones de insectos, hongos y nematodos. 
+        p Apreciado aprendiz, bienvenido a este componente formativo que aborda las prácticas de riego y manejo de poblaciones asociadas para la producción agroecológica; se desarrollarán elementos teóricos fundamentales de los sistemas de riego en cultivos a partir del uso eficiente de los recursos, desde los planteamientos de la normativa ambiental. Así mismo, se abordarán aspectos importantes relacionados con el control proporcionado de las poblaciones de insectos, hongos y nematodos. 
 
-        p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
+        p En el siguiente video conocerá de forma general la temática que se estudiará a lo largo del componente formativo:
 
     figure
       .video

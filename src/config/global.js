@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Prácticas de riego y manejo de poblaciones asociadas',
     descripcionCurso:
-      'El diseño e implementación del sistema de riego para cultivos, haciendo uso eficiente de los recursos, teniendo en cuenta la normativa ambiental, temas en la relación del agua-suelo-planta y clima, tipos de sistemas de riego, métodos de riego y drenaje, así como la normatividad requerida para este tipo de procedimientos. Por último, las poblaciones que causan enfermedades a los cultivos, con la finalidad de encontrar el equilibrio económico y ambiental.',
+      'Este componente formativo aborda temáticas relacionadas con el diseño e implementación del sistema de riego para cultivos haciendo uso eficiente de los recursos y teniendo en cuenta la normativa ambiental, temas en la relación del agua-suelo-planta y clima, tipos de sistemas de riego, métodos de riego y drenaje, así como la normatividad requerida para este tipo de procedimientos. Por último, las poblaciones que causan enfermedades a los cultivos con la finalidad de encontrar el equilibrio económico y ambiental.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [{}],

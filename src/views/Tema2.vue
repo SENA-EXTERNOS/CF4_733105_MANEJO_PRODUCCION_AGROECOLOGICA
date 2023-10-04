@@ -14,7 +14,7 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/t2/metodos-de-riego.png')})`}")
           .bloque-texto-g__texto.p-4
-            p.mb-0 Para elegir los métodos de riego, se hace necesario tener en cuenta diversas variables, como: la distribución del agua en el suelo, las características topográficas, el tipo de cultivo, la disponibilidad de agua, costos y tecnología; veamos a profundidad, qué se debe tener en cuenta, según cada método utilizado:
+            p.mb-0 Para elegir los métodos de riego, se hace necesario tener en cuenta diversas variables, como: la distribución del agua en el suelo, las características topográficas, el tipo de cultivo, la disponibilidad de agua, costos y tecnología; observe a profundidad, qué se debe tener en cuenta, según cada método utilizado:
 
     .row.mb-4.mt-5
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
@@ -23,9 +23,9 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               h1 Métodos superficiales
-              p Este método debemos asegurar que  el agua penetre la superficie a intervalos de tiempo, hasta que la lámina de agua alcance un espesor adecuado para su manejo,  permitiendo que el agua entre en el suelo a medida que esta escurre sobre el terreno. 
+              p Este método debe asegurar que  el agua penetre la superficie a intervalos de tiempo, hasta que la lámina de agua alcance un espesor adecuado para su manejo,  permitiendo que el agua entre en el suelo a medida que esta escurre sobre el terreno. 
               p A continuación se explicará los métodos de riego superficiales que más usados en las explotaciones agrícolas:
-              p Existen dos tipos de Métodos superficiales para riego que se describen a continuación:
+              p Existen dos tipos de métodos superficiales para riego que se describen a continuación:
               h4 Por surcos y por Inundación
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/t1.jpg')})`}")          
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
@@ -42,7 +42,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               h1 Método por inundación
-              p Denominado también superficial o aniego, sistema tradicional y poco tecnificado y el cual consiste en dejar escurrir el agua desde canales, los cuales se trazan por los sectores más altos. Se humedece el suelo al tiempo que el agua cubre la superficie. Se deben tener en cuenta las características topográficas configuran las variables de trazado y las dimensiones de las melgas.
+              p Denominado también superficial o aniego, sistema tradicional y poco tecnificado y el cual consiste en dejar escurrir el agua desde canales, los cuales se trazan por los sectores más altos. Se humedece el suelo al tiempo que el agua cubre la superficie. Se deben tener en cuenta las características topográficas que configuran las variables de trazado y las dimensiones de las melgas.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/t3.jpg')})`}")
     .row.mb-4
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
@@ -50,7 +50,7 @@
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
-              h1 Métodos por aspersión
+              h1 Método por aspersión
               p Es un sistema de riego a presión que implica la aplicación del agua en forma de lluvia más o menos intensa y uniforme sobre la parcela, con el fin de que el agua se infiltre en el mismo punto donde cae.
               p El agua es asperjada, es decir, el caudal es suministrado en innumerables gotas pequeñas de agua, las cuales penetran el suelo, al tiempo que se aplica.<br><br><br><br><br><br><br>
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/t4.jpg')})`}")
@@ -60,7 +60,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-4.p-xl-5
               h1 Método por goteo
-              p Simplemente consiste en aplicar el agua en gotas, directamente en el área de cultivo. Funciona de la siguiente manera el agua se infiltra al mismo tiempo que se aplica, de manera continua o a intervalos. Para la efectividad de este es necesaria la aplicación de la tecnología para determinar la frecuencia y precisar la cantidad de agua que se debe aplicar.
+              p Simplemente consiste en aplicar el agua en gotas, directamente en el área de cultivo. Funciona de la siguiente manera: el agua se infiltra al mismo tiempo que se aplica, de manera continua o a intervalos. Para la efectividad de este es necesaria la aplicación de la tecnología para determinar la frecuencia y precisar la cantidad de agua que se debe aplicar.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/t5.jpg')})`}")
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false")
@@ -69,7 +69,7 @@
             .tarjeta-slide__contenido.p-4.p-xl-5
               h1 Componentes de un sistema de riego por superficie
               p a. Distribución del agua, obras de instalación que transportan el agua desde la captación hasta el cultivo.
-              p b. Sistema de aforo, permite controlar con exactitud el caudal del agua, que debemos aplicar por sistema de riego.
+              p b. Sistema de aforo, permite controlar con exactitud el caudal del agua, que se debe aplicar por sistema de riego.
               p c. Sistemas de aplicación, que involucra sifones, caños, compuertas, válvulas de alfalfa, tuberías con compuertas, mangueras.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t2/t6.jpg')})`}")
     
@@ -104,7 +104,7 @@
       h3 Variables y equipos de medición
 
     p Para realizar el análisis de calidad de una fuente hídrica es necesario tener en cuenta que en ella se desarrollan procesos y actividades que reflejan el uso del recurso y se pueden evidenciar de manera cuantitativa en los siguientes parámetros:
-    p Dentro de los equipos de medición y control del sistema de riego, encontramos: 
+    p Dentro de los equipos de medición y control del sistema de riego, se encuentra: 
 
     .row.py-5.justify-content-between.align-items-start.mb-5
       .col-lg-6
@@ -158,7 +158,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 1
-              | Caudal, cantidad de agua en litros que proporciona la fuente de abastecimiento en una unidad de tiempo L/s, se calcula mediante aforos, y es la variable que nos permite medir la cantidad de agua que pasa en un tiempo determinado. 
+              | Caudal, cantidad de agua en litros que proporciona la fuente de abastecimiento en una unidad de tiempo L/s, se calcula mediante aforos, y es la variable que permite medir la cantidad de agua que pasa en un tiempo determinado. 
             li 
               .lista-ol--cuadro__vineta
                 span 2
@@ -176,7 +176,7 @@
           figure(style="margin-top:-36px")
             img(src='@/assets/curso/temas/t2/img2.svg', alt="")
         .col-lg-7
-          p.mb-4 Se define como la cantidad de agua que requiere un cultivo, la cual la suplimos a través de un sistema de riego, con el  fin de garantizar las condiciones óptimas para el desarrollo de la planta. Para esto es necesario saber la demanda hídrica de la plantación y la relación con la pluviometría natural, la idea es establecer el riego complementario, con el objetivo de lograr la máxima productividad y la efectividad de las cosechas.
+          p.mb-4 Se define como la cantidad de agua que requiere un cultivo, la cual la se suple a través de un sistema de riego, con el  fin de garantizar las condiciones óptimas para el desarrollo de la planta. Para esto es necesario saber la demanda hídrica de la plantación y la relación con la pluviometría natural, la idea es establecer el riego complementario, con el objetivo de lograr la máxima productividad y la efectividad de las cosechas.
     
     .row.mt-5
       h3 Drenaje
@@ -239,7 +239,7 @@
 
               li 
                 i.fas.fa-snowflake
-                | IIncremento de la cantidad de oxígeno disponible en el perfil de suelo.
+                | Incremento de la cantidad de oxígeno disponible en el perfil de suelo.
 
             ul.lista-ul--color
               li 
@@ -267,7 +267,7 @@
 
 
     h3.mt-5 Normatividad
-    p Dentro de las normas establecidas para el riego de cultivos tenemos:
+    p Dentro de las normas establecidas para el riego de cultivos se tiene:
     p Normatividad relacionada con el riego de cultivos.  
     
     .row.justify-content-center

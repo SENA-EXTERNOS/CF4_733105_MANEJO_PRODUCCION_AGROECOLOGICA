@@ -12,9 +12,9 @@
 
           .mt-5.pt-5.px-5
             .row
-              p.mb-2  Cuando hablamos de agricultura ecológica decimos que es un sistema de producción donde integra un manejo apropiado del suelo, aire y agua y las actividades de explotación agrícola como riego, tratamientos y labores.  
+              p.mb-2  Cuando se habla de agricultura ecológica se dice que es un sistema de producción donde integra un manejo apropiado del suelo, aire y agua y las actividades de explotación agrícola como riego, tratamientos y labores.  
               .cajon.color.p-4.mb-1
-                p El control de organismos causantes de enfermedades y plagas es uno de los grandes retos que tienen los productores y la idea es hacer que estas hagan el menor daño económico posible utilizando métodos apropiados para causar el menor impacto al medio ambiente.  
+                p El control de organismos causantes de enfermedades y plagas es uno de los grandes retos que tienen los productores y la idea es hacer que estas hagan el menor daño económico posible, utilizando métodos apropiados para causar el menor impacto al medio ambiente.  
               p.mb-1 Se trata además de incluir dentro de los cultivos,  poblaciones de organismos y microorganismos que ayuden a disminuir la influencia de las enfermedades y plagas, además de algunas plantas que sirven como repelentes. 
 
                
@@ -67,10 +67,10 @@
     .row.py-5.justify-content-center.align-items-center.mb-4
       .col-lg-8
         h3 Enfermedades de las plantas
-        p Es la entrada de organismos patógenos al interior y son causantes de infecciones, el aire también puede transportar toxinas que afectan el funcionamiento, condiciones desfavorables del ambiente y por último las que son provocadas por la   deficiencia de nutrientes que faltantes en el suelo producto de tratamientos de mala calidad, podemos decir que estas afectaciones por lo general son ocasionadas por organismos como virus, hongos y bacterias. 
+        p Es la entrada de organismos patógenos al interior y son causantes de infecciones, el aire también puede transportar toxinas que afectan el funcionamiento, condiciones desfavorables del ambiente y por último las que son provocadas por la   deficiencia de nutrientes que faltantes en el suelo producto de tratamientos de mala calidad, se puede decir que estas afectaciones por lo general son ocasionadas por organismos como virus, hongos y bacterias. 
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
-            p El mecanismo de transmisión se realiza mediante un insecto plaga que lo llamamos vector, estos son portadores de los microorganismos e infectan a la planta cuando perforan la planta para alimentarse de la savia. Dentro de los agentes patógenos encontramos:
+            p El mecanismo de transmisión se realiza mediante un insecto plaga que llamado vector, estos son portadores de los microorganismos e infectan a la planta cuando perforan la planta para alimentarse de la savia. Dentro de los agentes patógenos se encuentran:
       .col-lg-3
         figure(style="margin-top:-36px")
           img(src='@/assets/curso/temas/t3/bacteria.svg', alt="")
@@ -91,7 +91,7 @@
         .p-4
           h2 Bacterias
           p Son incapaces de producir su propia energía y para poderse sostener necesitan de un hospedaje, al igual que los hongos aprovechan las heridas para poder introducirse, las lecciones casi siempre son causadas por insectos que buscan alimentarse de la savia de la planta y el uso de las herramientas agrícolas. Biológicamente, estos microorganismos permanecen de maneras inactivas o latentes hasta que se dan las condiciones favorables para poder desarrollarse.
-          p Dentro de los síntomas encontramos marchitamiento, necrosis, y malos olores de las zonas afectadas.
+          p Dentro de los síntomas se encuentran marchitamiento, necrosis, y malos olores de las zonas afectadas.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-2
         figure
@@ -118,7 +118,7 @@
       .col-lg-8
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
-            p La finalidad del monitoreo es saber el estado sanitario en que se encuentra el cultivo. Como anteriormente expresamos, para poder tomar decisiones acerca del control de plagas y enfermedades es saber el estado sanitario de la plantación. Conocer el número de individuos por unidad de referencia en caso de plaga y en caso de enfermedad la cantidad de plantas con síntomas severos. Cuando son plantaciones grandes se toman pequeñas porciones para hacer el estudio y se recomienda que sea inspección directa. El dato obtenido es estimado al nivel real de dicha plaga.
+            p La finalidad del monitoreo es saber el estado sanitario en que se encuentra el cultivo. Como anteriormente se expresa, para poder tomar decisiones acerca del control de plagas y enfermedades es necesario saber el estado sanitario de la plantación. Conocer el número de individuos por unidad de referencia en caso de plaga y en caso de enfermedad la cantidad de plantas con síntomas severos. Cuando son plantaciones grandes se toman pequeñas porciones para hacer el estudio y se recomienda que sea inspección directa. El dato obtenido es estimado al nivel real de dicha plaga.
       .col-lg-4
         figure(style="margin-top:-36px")
           img(src='@/assets/curso/temas/t3/cultivo.svg', alt="")
@@ -126,7 +126,7 @@
         .bloque-texto-b.p-4
           h3 ¿Por qué hacer el monitoreo?
           .bloque-texto-b__texto
-            p La finalidad es detectar a tiempo los problemas para poder resolverlos y evitar que los daños sean graves sobre todos para cultivos de ciclo corto para tomar decisiones oportunas antes que sea demasiado tarde. El monitoreo mal hecho en los cultivos representa pérdidas significativas en las plantaciones. Esta técnica de igual manera nos permitirá un uso eficiente en los productos para combatir plagas, teniendo en cuenta que debemos ser amigables con el ambiente al usar dichos artículos. Resulta útil también para los insectos benéficos que actúan como controladores de plagas, es necesario saber qué tipo de población asociada tenemos para realizar prácticas que favorezcan a estos aliados.
+            p La finalidad es detectar a tiempo los problemas para poder resolverlos y evitar que los daños sean graves sobre todo para cultivos de ciclo corto, para tomar decisiones oportunas antes que sea demasiado tarde. El monitoreo mal hecho en los cultivos representa pérdidas significativas en las plantaciones. Esta técnica de igual manera permitirá un uso eficiente en los productos para combatir plagas, teniendo en cuenta que se debe ser amigables con el ambiente al usar dichos artículos. Resulta útil también para los insectos benéficos que actúan como controladores de plagas, es necesario saber qué tipo de población asociada se tiene para realizar prácticas que favorezcan a estos aliados.
         .bloque-texto.p-4.mb-4
           .col-md-8
             h3.mb-4 Herramientas de monitoreo
@@ -150,7 +150,7 @@
 
     .row.py-5
       .col-lg-8
-        p Es necesario recorrer toda la plantación para monitorear una vez por semana, en busca de señales de plagas, teniendo en cuenta en la etapa de desarrollo que se encuentre el cultivo y el periodo de crecimiento. No hay necesidad de revisar cada planta, se escogen áreas al azar, la idea es examinar la parte superior e inferior de la planta, posiblemente encontraremos más de dos plagas, el número de plantas escogidas para la inspección depende del tipo de cultivo.
+        p Es necesario recorrer toda la plantación para monitorear una vez por semana, en busca de señales de plagas, teniendo en cuenta en la etapa de desarrollo que se encuentre el cultivo y el periodo de crecimiento. No hay necesidad de revisar cada planta, se escogen áreas al azar, la idea es examinar la parte superior e inferior de la planta, posiblemente se encontrarán más de dos plagas, el número de plantas escogidas para la inspección depende del tipo de cultivo.
       .col-lg-4
         figure(style="margin-top:-36px")
           img(src='@/assets/curso/temas/t3/flores.svg', alt="")
@@ -168,7 +168,7 @@
       .col-lg-8
         figure(style="margin-top:-36px")
             img(src='@/assets/curso/temas/t3/img1.jpg', alt="")
-    p La frecuencia del monitoreo se realiza dependiendo del ciclo de vida y la capacidad reproductiva de la plaga, en general se debe mantener un monitoreo constante, pero si encontramos las siguientes situaciones debemos aumentar la frecuencia. Cuando la plaga afecta el fruto, en periodos de brotación y próximos a la cosecha, temperaturas altas y cuando realizamos prácticas de control para medir la efectividad.
+    p La frecuencia del monitoreo se realiza dependiendo del ciclo de vida y la capacidad reproductiva de la plaga, en general se debe mantener un monitoreo constante, pero si se encuentran las siguientes situaciones se debe aumentar la frecuencia. Cuando la plaga afecta el fruto, en periodos de brotación y próximos a la cosecha, temperaturas altas y cuando realizamos prácticas de control para medir la efectividad.
     p A continuación, podrá ver en un video en donde se abordan los aspectos más importantes de este tema
     
     .row.mt-5
@@ -194,7 +194,7 @@
               ul.lista-ul--color
                 li 
                   i.fas.fa-snowflake
-                  p.texto-azul Biocontroladores a base de microorganismos antagónicos. De igual manera las encontramos como bacterias, hongos o virus, son habitantes naturales del suelo, resultan muy efectivos en el control de enfermedades pos, cosecha, su actuar es causar daños en la anatomía, restringiendo las actividades de los organismos.
+                  p.texto-azul Biocontroladores a base de microorganismos antagónicos. De igual manera se encuentran como bacterias, hongos o virus, son habitantes naturales del suelo, resultan muy efectivos en el control de enfermedades poscosecha, su actuar es causar daños en la anatomía, restringiendo las actividades de los organismos.
             .col-md-3
               figure
                 img(src='@/assets/curso/temas/t3/pest1.svg')
@@ -233,7 +233,7 @@
       .py-3.py-md-4(titulo="Biofertilizantes")
         .row.py-4.justify-content-center
           .col-md-5
-            p Son hechos con la mezcla de varios microorganismos benéficos, suministrando nutrientes a las plantas. Dentro de las ventajas al usar este tipo de productos encontramos, bajamos los costos de producción, protección del ambiente y aumento de la biodiversidad en el suelo, se clasifican de la siguiente manera:
+            p Son hechos con la mezcla de varios microorganismos benéficos, suministrando nutrientes a las plantas. Dentro de las ventajas al usar este tipo de productos se encuentran: bajar los costos de producción, protección del ambiente y aumento de la biodiversidad en el suelo, se clasifican de la siguiente manera:
             ul.lista-ul--color
               li 
                 i.fas.fa-snowflake
@@ -255,7 +255,7 @@
               img(src='@/assets/curso/temas/t3/pest3.svg')
     
     .row.mt-5
-      h3 Normatividad.
+      h3 Normatividad
     p Normatividad en producción ecológica
     .row.justify-content-center
         .col-lg-3 

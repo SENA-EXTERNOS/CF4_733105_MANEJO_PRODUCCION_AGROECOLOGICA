@@ -160,14 +160,14 @@
           p Importante reconocer si la enfermedad es producida por biótico como insectos, ácaros, entre otras, o por un factor abiótico como las condiciones climáticas o deficiencia de nutrientes en el suelo. Se recomienda hacer anotaciones, en un mapa de cultivo, marcar donde ocurren los problemas, tomar nota de cada monitoreo como fechas, etapa del cultivo y condiciones climáticas.
           br
     
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4.pb-3
       .col-lg-10 
         h3 Pasos para combatir una enfermedad o plaga
     
-    .row.justify-content-center.align-items-center.mb-4.mt-3   
+    .row.justify-content-center.align-items-center.mb-4.mt-4   
       .col-lg-8
         figure(style="margin-top:-36px")
-            img(src='@/assets/curso/temas/t3/img1.jpg', alt="")
+            img(src='@/assets/curso/temas/t3/1.svg', alt="")
     p La frecuencia del monitoreo se realiza dependiendo del ciclo de vida y la capacidad reproductiva de la plaga, en general se debe mantener un monitoreo constante, pero si se encuentran las siguientes situaciones se debe aumentar la frecuencia. Cuando la plaga afecta el fruto, en periodos de brotación y próximos a la cosecha, temperaturas altas y cuando realizamos prácticas de control para medir la efectividad.
     p A continuación, podrá ver en un video en donde se abordan los aspectos más importantes de este tema
     
